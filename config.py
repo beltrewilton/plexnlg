@@ -4,11 +4,10 @@ from dspy.retrieve.pgvector_rm import PgVectorRM
 from embedding_model import embedd
 
 secret = dotenv_values('.secret')
-db_url = secret['POSTGRES_URL']
 
-def retriever_model(table_name: str) -> PgVectorRM:
+def retriever_model(node: str, table_name: str) -> PgVectorRM:
     _retriever_model = PgVectorRM(
-        db_url=db_url, 
+        db_url=secret[node], 
         pg_table_name=table_name,
         k=1,
         embedding_func=embedd,

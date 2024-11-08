@@ -1,0 +1,12 @@
+numpy
+torch
+transformers
+groq
+dspy-ai
+litellm
+fastapi
+pgvector
+python-dotenv
+pydantic
+arize-phoenix
+openinference-instrumentation-dspy

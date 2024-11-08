@@ -56,7 +56,8 @@ async def __generate(r: NRequest) -> NResponse:
             previous_state=r.previous_state,
             tasks=r.tasks,
             current_task=r.current_task,
-            previous_conversation_history=r.previous_conversation_history
+            previous_conversation_history=r.previous_conversation_history,
+            node=r.node
         )
     except Exception as ex:
         raise HTTPException(status_code=500, detail=ex)

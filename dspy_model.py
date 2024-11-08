@@ -67,11 +67,11 @@ class NLGSignature(dspy.Signature):
     output: Output = dspy.OutputField()
 
 class NLG(dspy.Module):
-    def __init__(self, signature: dspy.Signature):
+    def __init__(self, signature: dspy.Signature, node: str):
         super().__init__()
         self.predict = dspy.TypedChainOfThought(signature=signature)
         self.relevance = dspy.TypedChainOfThought(RelevanceSignature)
-        self.retriever = retriever_model(table_name="company_info")
+        self.retriever = retriever_model(node=node, table_name="company_info")
 
     def forward(self, user_input: Input) -> Output:
         prediction: Output  = self.predict(context=["N/A"], user_input=user_input).output
@@ -177,6 +177,7 @@ class NRequest(BaseModel):
     tasks: Dict[int, str]
     current_task: str
     previous_conversation_history: List[str]
+    node: str
 
 class NResponse(BaseModel):
     output: Output
@@ -190,6 +191,7 @@ def generate(
         tasks: Dict[int, str],
         current_task: str,
         previous_conversation_history: List[str],
+        node: str
     ) -> NResponse:
     index = next(key for key, value in tasks.items() if value == current_task)
     user_input = Input(
@@ -208,7 +210,7 @@ def generate(
         current_state=current_state,
         previous_state=previous_state,
     )
-    nlg = NLG(signature=NLGSignature)
+    nlg = NLG(signature=NLGSignature, node=node)
     with dspy.context(lm=llm):
         output = nlg(user_input=user_input)
     previous_conversation_history.extend(
@@ -218,18 +220,3 @@ def generate(
         output=output,
         previous_conversation_history=previous_conversation_history
     )
-
-    # time.sleep(random.uniform(0.3, 1.3))
-
-    # return NResponse(
-    #     output=Output(
-    #         share_link=True,
-    #         schedule=False,
-    #         company_question=True,
-    #         abort_scheduled_state=False,
-    #         response="Joy joy! this is a static message!"
-    #     ),
-    #     previous_conversation_history=[
-    #         "First comment"
-    #     ]
-    # )
