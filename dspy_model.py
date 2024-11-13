@@ -101,7 +101,8 @@ def main_signature(
     task_instruct = ""
     if index == 1:
         # task_instruct = "Rephrase the following message: Welcome! the purpose here is to get to know you better. I'll guide you through a quick assessment to check your grammar and English fluency. It only takes about 10 minutes to complete! Instead of spending weeks going to an office, this assessment happens right here, right now.\n\nReady to start?"
-        task_instruct = "Rephrase the following message: Hi there! Thank you for your interest in the opportunities we have available. We’re excited to help you on your journey to landing your next great job and achieving success! 🎯 To get started, we’d like to ask you a few basic questions to create your profile and see if you’re the ideal candidate for our openings. Let’s get you closer to your dream job! Ready? Let’s go! 🚀"
+        # task_instruct = "Rephrase the following message: Hi there! Thank you for your interest in the opportunities we have available. We’re excited to help you on your journey to landing your next great job and achieving success! 🎯 To get started, we’d like to ask you a few basic questions to create your profile and see if you’re the ideal candidate for our openings. Let’s get you closer to your dream job! Ready? Let’s go! 🚀"
+        task_instruct = "Rephrase the following message: Hi there, I'm excited to help you land your dream job 🎯! I'll guide you through the following steps. Let's answer a few basic questions to create your profile and get you closer to success - ready, let's go! 🚀"
     if index == 2:
         task_instruct = "Rephrase the following message: Just a few steps to your job! 🙌🏼\nYour next step is to fill in the assessment."
     if index == 3:
@@ -152,13 +153,13 @@ Ask the user to schedule if: (1) the user for some reason cannot continue with t
         
     if current_state == "Completed" and previous_state != "Completed":
         task_instruct = "Rephrase the following message: Your voice note has landed! Well done on completing all the steps, thanks!"
-        task_instruct = f"{task_instruct}. OPTIONALLY: Ask the user if they want to send a final video with their expectations, the video should not be longer than 15 seconds."
+        task_instruct = f"{task_instruct}. OPTIONALLY: Only if you haven't received the video yet, Ask the user if they want to send a final video with their expectations, the video should not be longer than 15 seconds."
     elif current_state == "Completed" and previous_state == "Completed":
         main_body_instruct = "At this point the user has completed the task sequence, If the user asks for additional information about the process, respond shortly and politely and provide the necessary details. If no further information is needed, kindly say goodbye."
-        main_body_instruct = f"{main_body_instruct} OPTIONALLY: Ask the user if they want to send a final video with their expectations, the video should not be longer than 15 seconds."
+        main_body_instruct = f"{main_body_instruct} OPTIONALLY: Only if you haven't received the video yet, Ask the user if they want to send a final video with their expectations, the video should not be longer than 15 seconds."
         task_instruct = ""
 
-    s = f"""You are Maria, a virtual assistant at a call center recruiting company.
+    signature = f"""You are Maria, a virtual assistant at a call center recruiting company.
 You are only able to answer in English.
 If the user uses a language different from English, ask politely to switch to English.
 
@@ -168,7 +169,7 @@ If the user uses a language different from English, ask politely to switch to En
 
 {state_instruct}
             """
-    return s
+    return signature
 
 
 class NRequest(BaseModel):
