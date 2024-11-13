@@ -1,10 +1,12 @@
 numpy
 torch
 transformers
+einops
 groq
 dspy-ai
 litellm
 fastapi
+psycopg2
 pgvector
 python-dotenv
 pydantic
