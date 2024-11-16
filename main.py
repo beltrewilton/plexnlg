@@ -35,7 +35,7 @@ def phoenix_debug():
 async def lifespan(app: FastAPI):
    secret = dotenv_values(".secret")
    app.state.secret = secret
-   phoenix_debug()
+#    phoenix_debug()
    yield
    print('bye application!')
 

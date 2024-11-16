@@ -196,6 +196,18 @@ def generate(
         previous_conversation_history: List[str],
         node: str
     ) -> NResponse:
+
+    from rich import print 
+
+    print(utterance)
+    print(states)
+    print(current_state)
+    print(previous_state)
+    print(tasks)
+    print(current_task)
+    print(previous_conversation_history)
+    print(node)
+
     index = next(key for key, value in tasks.items() if value == current_task)
     user_input = Input(
         utterance=utterance,
