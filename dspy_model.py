@@ -199,14 +199,14 @@ def generate(
 
     from rich import print 
 
-    print(utterance)
-    print(states)
-    print(current_state)
-    print(previous_state)
-    print(tasks)
-    print(current_task)
-    print(previous_conversation_history)
-    print(node)
+    print("utterance:", utterance)
+    print("states:", states)
+    print("current_state:", current_state)
+    print("previous_state:", previous_state)
+    print("tasks:", tasks)
+    print("current_task:", current_task)
+    print("previous_conversation_history:", previous_conversation_history)
+    print("node:", node)
 
     index = next(key for key, value in tasks.items() if value == current_task)
     user_input = Input(
@@ -231,7 +231,12 @@ def generate(
     previous_conversation_history.extend(
         [f"User: {utterance}", f"AI: {output.response}"]
     )
-    return NResponse(
+    
+    resp = NResponse(
         output=output,
         previous_conversation_history=previous_conversation_history
     )
+
+    print("Response:", resp)
+
+    return resp
