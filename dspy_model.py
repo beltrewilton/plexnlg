@@ -125,7 +125,7 @@ def main_signature(
     elif current_state == "In progress":
         main_body_instruct = """Ask the user to complete the following sequence tasks:
 - Talent entry form
-Fields: Name, English level, availability
+Fields: Profile
 Delivery: Share in this chat
 IMPORTANT: The form is self-contained. You are not informed about its content.
 
