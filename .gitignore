@@ -2,3 +2,6 @@
 __pycache__/
 .vscode/
 lab/
+lora_model/
+*.zip
+.VSCodeCounter/

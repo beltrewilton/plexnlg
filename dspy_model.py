@@ -122,7 +122,7 @@ def main_signature(
     elif current_state == "Scheduled":
         main_body_instruct = "Thanks the user for scheduling, see you later."
         task_instruct = ""
-    elif current_state == "In Progress":
+    elif current_state == "In progress":
         main_body_instruct = """Ask the user to complete the following sequence tasks:
 - Talent entry form
 Fields: Name, English level, availability
