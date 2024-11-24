@@ -1,0 +1,312 @@
+[
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thanks for sending that over! Finally, could you respond to this open-ended question with a voice note: `PLACEHOLDER_2`. This will help me assess your thoughts and opinion."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thanks for sending that over! I'll review it shortly. Next, I'd like you to respond to an open-ended question with a voice note. The question is: `PLACEHOLDER_2`."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Received! Now, I'd like you to respond to this open-ended question with a voice note: `PLACEHOLDER_2`."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Received it! Thanks for that. Your English pronunciation and fluency are important for this role. Now, I'd like you to respond to an open-ended question with a voice note. This will help me understand your thoughts and opinions. Here's the question: `PLACEHOLDER_2`. Please record your response and send it to me."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thanks for sending that over! Now, I'd like you to respond to this open-ended question with a voice note: `PLACEHOLDER_2`."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Got it! Thanks for sending the voice note. Now, I'd like to ask you an open-ended question. Please respond with a voice note, and I'll assess your thoughts and opinion. Here's the question: `PLACEHOLDER_2`. Go ahead and record your response!"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Received! Thanks for that. Now, I'd like you to respond to an open-ended question with a voice note. Please answer the following: `PLACEHOLDER_2`. Take your time, and share your thoughts with me."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Received! Now, I'd like you to respond to an open-ended question with a voice note, allowing me to assess your thoughts and opinions. Please find the question below: `PLACEHOLDER_2`"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Received! Thanks for that. Finally, I'd like you to respond to an open-ended question with a voice note. Here's the question: `PLACEHOLDER_2`. Please share your thoughts and opinions with me."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thank you! I've received your voice note. Finally, could you please respond to this open-ended question with a voice note: `PLACEHOLDER_2`. This will help me assess your thoughts and opinions."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Received it, thanks! Now, I'd like you to respond to an open-ended question with a voice note. This will help me understand your thoughts and opinions. Here's the question: `PLACEHOLDER_2`"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thanks for sending the voice note! I've received it. Now, I need you to respond to an open-ended question with a voice note. This will help me assess your thoughts and opinions. Please find the question below: `PLACEHOLDER_2`. Record your response and send it to me."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Received it, thank you! Your English sounds great. Finally, I need you to respond to an open-ended question with a voice note, allowing me to assess your thoughts and opinion. Please find the question below: `PLACEHOLDER_2`"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thanks for sending that over! Now, I'd like to hear your thoughts on this open-ended question: `PLACEHOLDER_2`. Could you please respond with a voice note?"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Received! Thanks for that. Finally, I need you to respond to an open-ended question with a voice note. Here's the question: `PLACEHOLDER_2`. Please share your thoughts and opinions with me."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! I've received your voice note. Now, I need you to respond to an open-ended question with a voice note, allowing me to assess your thoughts and opinion. Please find the question below.  `PLACEHOLDER_2`"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Received! Thanks for that. Now, I'd like to ask you an open-ended question. Can you please respond with a voice note? Here's the question: `PLACEHOLDER_2`. Take your time, and I look forward to hearing your thoughts!"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great job! Your English skills sound excellent. Next, I'd love to hear your thoughts on this open-ended question: `PLACEHOLDER_2`. Please respond with a voice note, and I'll get back to you soon."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Got it! Thanks for sending the voice note. Now, let's move on to the final step. Please respond to this open-ended question with a voice note: `PLACEHOLDER_2`. This will help me understand your thoughts and opinions."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thanks for sending that over! Now, I'd like you to respond to an open-ended question with a voice note. Please find the question below: `PLACEHOLDER_2`. Take a minute to think about it, and then record your thoughts."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Received! Thanks for that. Now, I'd like you to respond to this open-ended question with a voice note: `PLACEHOLDER_2`. Please share your thoughts and opinions with me."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thanks for sending that over! I'll review it shortly. Next, I'd like you to respond to an open-ended question with a voice note. The question is: `PLACEHOLDER_2`. Please share your thoughts and opinions on this topic."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thank you so much! I've received your voice note. Now, I'd like to ask you to respond to an open-ended question with a voice note. This will help me assess your thoughts and opinions. Please find the question below. Could you record your response and send it to me? `PLACEHOLDER_2`"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thanks for sending the voice note! I'll review it shortly. Moving on, I'd like you to respond to an open-ended question with a voice note. Here's the question: `PLACEHOLDER_2`. Please take a moment to think about your answer and send me a voice note."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thanks, I've received your voice note. Now, I'd like you to respond to an open-ended question with a voice note. Please find the question below: `PLACEHOLDER_2`. Record your thoughts and opinions, and send the voice note to me."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Received your voice note! Thanks for that. Now, I'd like you to respond to an open-ended question with a voice note. Here's the question: `PLACEHOLDER_2`. Please share your thoughts and opinions with me."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thank you! Lastly, I\u2019d like you to respond to an open-ended question with a voice note. Here\u2019s the question: `PLACEHOLDER_2`."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent, thank you! Lastly, I'd like you to respond to an open-ended question with a voice note. This will help us understand your thought process and opinions. Here\u2019s the question: `PLACEHOLDER_2`."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thank you! You're doing great so far. Next, I'd like you to respond to an open-ended question with a voice note. The question is: `PLACEHOLDER_2`. This will allow us to understand your thoughts and opinions better. Please take your time and send the voice note when you're ready."
+        }   
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Got it, thanks! Lastly, I\u2019d like you to respond to an open-ended question with a voice note. Here\u2019s the question: `PLACEHOLDER_2`. Take your time to think and share your thoughts."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Perfect, thank you. Finally, I\u2019d like you to respond to this open-ended question with a voice note: `PLACEHOLDER_2`. This will help us assess your thoughts and opinions."
+        }
+    ]
+]

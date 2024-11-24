@@ -1,0 +1,172 @@
+[
+    [
+        {
+            "speaker": "Applicant",
+            "message": "I\u2019ve finished the assessment."
+        },
+        {
+            "speaker": "System",
+            "message": "Great to hear you've made progress on the assessment. However, it seems it's not fully completed yet. Please find it in this chat and fill it out entirely. Complete the remaining sections so we can review it"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "I\u2019ve completed the assessment."
+        },
+        {
+            "speaker": "System",
+            "message": "It seems the assessment isn't fully complete yet. Please review the assessment in this chat and complete it. We appreciate your cooperation"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Done with the assessment, Maria."
+        },
+        {
+            "speaker": "System",
+            "message": "I appreciate you letting me know you've finished the assessment. However, I couldn't find a completed one. Please find the assessment in this chat and complete it"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "I have completed the assessment form and submitted it."
+        },
+        {
+            "speaker": "System",
+            "message": "Just to confirm, it doesn't appear the assessment is complete. Please locate it in this chat and complete the remaining questions."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Done with the assessment as well"
+        },
+        {
+            "speaker": "System",
+            "message": "You're almost done, find the assessment in this chat and complete the remaining part."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "alright, I'll get on it. I've finished the assessment."
+        },
+        {
+            "speaker": "System",
+            "message": "I'm glad you think you've finished the assessment, but it looks like there are still some sections to complete. Please find the assessment in this chat and complete it. We'll be happy to review it once you're done."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "I've answered the questions."
+        },
+        {
+            "speaker": "System",
+            "message": "Great that you've reached this far. However, it seems like the assessment isn't quite done yet. Find it in this chat and complete the remaining parts"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "I've answered the questions in the form as requested."
+        },
+        {
+            "speaker": "System",
+            "message": "It seems like you haven't finished the assessment yet. Locate it in our chat history and complete it. Complete the remaining sections, and I'll assist you further."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Just finished answering the questions in the assessment form."
+        },
+        {
+            "speaker": "System",
+            "message": "You've reported finishing the assessment, but it seems there's still work to be done. Find the assessment in this chat and complete it."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Just finished the assessment"
+        },
+        {
+            "speaker": "System",
+            "message": "Complete the assessment, it's available in this chat. It looks like you still have some questions to answer."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "I've answered the questions"
+        },
+        {
+            "speaker": "System",
+            "message": "Thank you for letting me know. However, it seems the assessment is still pending. Please find it in this chat and complete it"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Okay, I've finished the assessment. I've submitted my answers."
+        },
+        {
+            "speaker": "System",
+            "message": "I've received your update, however, I don't see the assessment as finished. Please find it in this chat and complete it to finalize the process."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "System",
+            "message": "It seems like the grammar assessment is still pending. Please find it in this chat and complete it to move forward."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Okay, I've completed the assessment. Sent!"
+        },
+        {
+            "speaker": "System",
+            "message": "The grammar assessment doesn't seem complete. Please find it in this chat and complete the remaining sections"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "I've completed the assessment. Waiting for your feedback!"
+        },
+        {
+            "speaker": "System",
+            "message": "Great job on starting, however it seems the assessment isn't finished yet. Please find it in this chat and complete it."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "I've completed the grammar part. What's the next step?"
+        },
+        {
+            "speaker": "System",
+            "message": "It seems your assessment isn't complete yet. Please find it in this chat and complete the grammar assessment."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "I've submitted my answers. Please review them"
+        },
+        {
+            "speaker": "System",
+            "message": "I've reviewed your progress and it appears the grammar assessment isn't finished. Please locate it in this chat and complete it to proceed"
+        }
+    ]
+]

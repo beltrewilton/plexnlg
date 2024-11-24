@@ -1,0 +1,172 @@
+[
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note for Scripted text sent."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Complete sending the voice note for the scripted text, as it doesn't seem to have been received"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "I\u2019ve sent the voice note"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "I think there's been a misunderstanding. It looks like the voice note for the scripted text hasn't been sent yet. Complete sending the voice note please."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "I've sent the voice note."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Complete sending the voice note for the scripted text, it doesn't appear to have been delivered yet."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "I've sent the voice note with the reading."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "It seems like the voice note for the scripted text hasn't been sent. Complete sending the voice note to proceed."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Voice note sent!"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "It seems there might have been a misunderstanding. Complete sending the voice note for the scripted text to proceed."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Just sent the voice note"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Complete sending the voice note for the scripted text, it doesn't seem to have been received yet"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "I\u2019ve just sent the voice note."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "It doesn't appear that you've sent the voice note yet. Complete sending the voice note with the scripted text so we can proceed"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Okay, voice note recorded and sent"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thank you for letting me know, but I haven't received a voice note with the reading yet. Complete sending the voice note and I'll be happy to review it."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "I've sent the voice note my friend"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "It appears that the voice note for the reading isn't showing up. Please complete sending the voice note for the scripted text."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Just sent the voice note. Hope it's clear!"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thank you for letting me know. However, I don't seem to have received the voice note with the reading yet. Complete sending the voice note for me, and I'll be happy to move forward."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "I\u2019ve recorded and sent the voice note"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "I appreciate your update, however I don't seem to have received the voice note with the reading yet. Complete sending the voice note so I can review it, thank you."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Got it! I've recorded the voice note"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "It seems I haven't received the voice note for the reading yet. Complete the task by sending the voice note as soon as possible, thank you."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Just sent the voice note! If you see typos it's because I am not wearing my glasses. I have good english."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thank you for letting me know. However, I don't seem to have received the voice note yet. Complete the task by sending the voice note with the scripted text, and I'll be happy to assist you further."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Just sent the voice note! If you see typos it's because I am not wearing my glasses. I have good english."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thank you for letting me know. However, I don't seem to have received the voice note yet. Complete the task by sending the voice note with the scripted text, and I'll be happy to assist you further."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Got it! I've recorded the voice note. Here it is"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "It seems the voice note with the reading hasn't been received. Complete sending the voice note so we can access the scripted text."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Okay, I'll give it a try. Just sent the voice note!"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "However, it seems we haven't received the voice note with the reading yet. Complete sending the voice note with the scripted text so we can review it, thank you."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Just recorded the voice note. Sending it now!"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "It seems there might have been a misunderstanding. Complete sending the voice note with the scripted reading so we can move forward."
+        }
+    ]
+]

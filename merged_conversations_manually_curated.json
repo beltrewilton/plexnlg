@@ -14071,7 +14071,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Thanks for sending that over! I'll review it shortly. Next, I'd like you to respond to an open-ended question with a voice note. The question is: `PLACEHOLDER_2`. Please share your thoughts and opinions with me."
+                "message": "Thanks for sending that over! I'll review it shortly. Next, I'd like you to respond to an open-ended question with a voice note. The question is: `PLACEHOLDER_2`."
             },
             {
                 "speaker": "Applicant",
@@ -14167,7 +14167,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Received! Now, I'd like you to respond to this open-ended question with a voice note: `PLACEHOLDER_2`. Please share your thoughts and opinions with me."
+                "message": "Received! Now, I'd like you to respond to this open-ended question with a voice note: `PLACEHOLDER_2`."
             },
             {
                 "speaker": "Applicant",
@@ -14479,7 +14479,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Thanks for sending that over! Now, I'd like you to respond to this open-ended question with a voice note: `PLACEHOLDER_2`. Please share your thoughts and opinions with me."
+                "message": "Thanks for sending that over! Now, I'd like you to respond to this open-ended question with a voice note: `PLACEHOLDER_2`."
             },
             {
                 "speaker": "Applicant",
@@ -15915,7 +15915,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Received! Now, I'd like you to respond to an open-ended question with a voice note, allowing me to assess your thoughts and opinions. Please find the question below:"
+                "message": "Received! Now, I'd like you to respond to an open-ended question with a voice note, allowing me to assess your thoughts and opinions. Please find the question below: `PLACEHOLDER_2`"
             },
             {
                 "speaker": "Applicant",
@@ -22287,7 +22287,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Excellent! I've received your voice note. Now, I need you to respond to an open-ended question with a voice note, allowing me to assess your thoughts and opinion. Please find the question below."
+                "message": "Excellent! I've received your voice note. Now, I need you to respond to an open-ended question with a voice note, allowing me to assess your thoughts and opinion. Please find the question below.  `PLACEHOLDER_2`"
             },
             {
                 "speaker": "Applicant",
@@ -29363,7 +29363,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Thank you so much! I've received your voice note. Now, I'd like to ask you to respond to an open-ended question with a voice note. This will help me assess your thoughts and opinions. Please find the question below. Could you record your response and send it to me?"
+                "message": "Thank you so much! I've received your voice note. Now, I'd like to ask you to respond to an open-ended question with a voice note. This will help me assess your thoughts and opinions. Please find the question below. Could you record your response and send it to me? `PLACEHOLDER_2`"
             },
             {
                 "speaker": "Applicant",
