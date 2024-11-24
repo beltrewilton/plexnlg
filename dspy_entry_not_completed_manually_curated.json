@@ -1,0 +1,162 @@
+[
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Got it! I've filled out the form. Please let me know what's next."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thank you for getting back to me. I apologize, but it seems the assessment form isn't quite complete yet. Could you please review it in this chat and finish filling it out? I'll be happy to guide you through the next steps once it's done."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thank you for your enthusiasm. However, it seems the assessment form hasn't been completed yet. Could you please review the form in this chat and finish it? "
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "However, I noticed that the assessment form hasn't been fully completed. Could you kindly review the form in this chat and finish the remaining sections? "
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Okay, got it. Done! I've filled out the form. Please let me know what's next."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thank you for your prompt response. However, it seems the assessment form hasn't been fully completed. Could you please review it in this chat and finish the remaining sections?"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Okay, got it. Done! I've filled out the form. Please let me know what's next."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thanks for getting back to me. I just wanted to double-check that the assessment form is complete. Could you please review it again in this chat and ensure everything is filled in accurately?"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Got it! I've filled out the form."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "No worries, I appreciate your effort. However, it seems like the assessment form hasn't been fully completed. Would you mind reviewing the assessment in this chat and finishing the remaining parts?"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Okay, I'll give it a shot. Done! I just filled it out."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "It looks like the assessment form isn't complete yet. Could you please review it here in this chat and finish filling it out?"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Done! I've completed the form."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "It looks like the assessment form still needs to be completed. Could you review it in this chat and finish the form? It should only take a few minutes."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Got it! I've completed the form. My name is Emily, my English level is intermediate, and I accept the terms and conditions."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thank you for getting back to me. I noticed the assessment form isn't completed yet. Could you please take a few minutes to review and finish it in this chat? I'll be happy to guide you through the next steps once it's done."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Just completed the form! Please let me know what's next."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Almost there. I just noticed the assessment form isn't quite complete. Could you please take a few minutes to review and finish it in this chat? I appreciate your time."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Okay, got it. Done! Just submitted the form"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Just to confirm, could you please review the evaluation form in this chat and make sure you've completed it? It's just a quick few-minute process."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Just completed the talent form! Thanks for sharing it."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Before we move forward, just a quick check: did you complete the evaluation form in this chat? If not, please take a minute to fill it out, thanks."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Just completed the talent form! Thanks for sharing it."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Before we move forward, just a quick check: did you complete the evaluation form in this chat? If not, please take a minute to fill it out, thanks."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Okay, I'll fill it out then. Just filled it out! I've completed the form with my name and other fields"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Just a quick check - it looks like the evaluation form isn't quite complete yet. please take another look  and finish it."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Just filled out the form! It was quick and easy. What's next?"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "You're almost there. Just a quick review of the form is needed. Please go back and complete the missing entry form so we can move forward."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Okay, got it! I'll do my best. I've filled out the form. What's next?"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "I appreciate your enthusiasm, however, it seems like the form isn't fully completed yet. Could you please review and finish filling it out?"
+        }
+    ]
+]

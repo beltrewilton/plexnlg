@@ -1,0 +1,212 @@
+[
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great! Next, I need you to answer a two-question assessment to evaluate your skills. Please fill out the form with detailed responses."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Awesome, thank you! Next, I'd like you to answer a two-question assessment to evaluate your skills. Please take your time and answer each question."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great! Next, I need you to answer a two-question assessment to evaluate your skills."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Awesome! Next, I'd like you to answer a couple of questions to evaluate your skills. I'll send you another form for this."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great! Now, let's move on to the next step. I need you to answer a two-question assessment to evaluate your skills. Take your time and make sure to provide detailed answers."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Awesome, thank you! Now, we need to assess your skills a bit. I'll send you another form with two questions."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! Now, let's move on to a two-question assessment. This will help us evaluate your skills. Please provide detailed answers in two long paragraphs for each question."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great, thank you! Now, I need you to answer a two-question assessment. I'll send you the form now"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great! Now, let's move on to the next step. Please fill out this short assessment. It has two questions that require detailed answers."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Awesome! Next, we have a two-question assessment to evaluate your skills. Please answer the questions."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Perfect! Now, let's move on to a quick assessment of your skills. Could you please answer the two questions in this form with two long paragraphs each?"
+        }   
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Awesome! Now, could you please complete a two-question assessment? This will help us evaluate your skills."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Perfect! Now, I'd like you to answer a two-question assessment to evaluate your skills. I've shared the form with you. Take your time and write two long paragraphs for each question. Let me know when you're done."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Wonderful! Now, I'd like you to answer a two-question assessment to evaluate your skills. Here\u2019s the form for that."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great! Now, I\u2019d like you to answer a two-question assessment to evaluate your skills. Just take your time to write two long paragraphs for each question."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great job! Now, I need you to answer a two-question assessment to evaluate your skills. You can find the form below."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great job! Now, I need you to answer a two-question assessment to evaluate your skills. Please find the form below:"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great job! I've received your form. Next, I need you to complete a two-question assessment to evaluate your skills. Please find the form attached. "
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Awesome, thanks for being so quick! Next, I need you to complete a two-question assessment to evaluate your skills. Please find the form attached. "
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Awesome, thanks for being so quick! Next, I need you to answer a two-question assessment to evaluate your skills. Please find the form attached."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Talent entry form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Awesome, thank you! Now, I'd like you to complete a short assessment to evaluate your skills. It's just two questions, and you can answer them in the form I'm about to share. "
+        }
+    ]
+]

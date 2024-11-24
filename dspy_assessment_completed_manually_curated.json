@@ -1,0 +1,323 @@
+[
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! Your English skills will also play a crucial role in this position. Can you please record a voice note reading this text aloud and send it to me? [shares the text: `PLACEHOLDER_1`]"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great job! I've received your assessment. Now, let's test your English skills. Could you please record a voice note reading this text aloud? `PLACEHOLDER_1`"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Awesome! Now, I need you to record a voice note reading this text aloud: `PLACEHOLDER_1`. Please send it to me once you're done."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! I've received your responses. Now, let's move on to the next step. I'd like you to record a voice note reading this text aloud: `PLACEHOLDER_1`. Please send it to me once you're done."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great job! I've received your assessment. Now, I need you to record a voice note reading this text aloud: `PLACEHOLDER_1`. Please send it to me once you're done."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great job! I've reviewed your answers, and they look good. Now, I'd like you to record a voice note reading the following text aloud: `PLACEHOLDER_1`. Please send it to me once you're done."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! Now, I'd like you to record a voice note reading this text aloud: `PLACEHOLDER_1`. Please send it to me once you're done."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! Your answers have been received. Now, I need you to record a voice note reading a provided text aloud. Please find the text below: `PLACEHOLDER_1`. Record yourself reading it and send it to me."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! Your responses will help me understand your skills better. Next, I'd like you to record a voice note reading this text aloud: `PLACEHOLDER_1`. Please send it to me once you're done."
+        }   
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! Next, I need you to record a voice note reading the following text aloud: `PLACEHOLDER_1`. Please send it to me once you're done."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great job! Now, I need you to record a voice note reading a provided text aloud. Please find the text below. Just record yourself reading it, and send it to me."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! Now, I'd like you to record a voice note reading the following text aloud: `PLACEHOLDER_1`. Please send it to me once you're done."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! I've received your assessment. Now, let's move on to the next step. I'd like you to record a voice note reading the following text aloud: `PLACEHOLDER_1`. Please send it to me once you're done."
+        }   
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great job! I've received your answers. Now, I need you to record a voice note reading a provided text aloud. Please find the text below."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! I've received your assessment. Now, I need you to record a voice note reading a provided text aloud. Please find the text below: `PLACEHOLDER_1`. Record yourself reading it and send the voice note to me."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! I've received your assessment. Now, I'd like you to record a voice note reading the following text aloud: `PLACEHOLDER_1`. Please send it to me."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Thanks for submitting your answers! I'll review them shortly. Next, I'd like you to record a voice note reading a provided text aloud. Here's the text: `PLACEHOLDER_1`. Please send the voice note to me."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Fantastic! I've received your assessment. Now, let's assess your English level with a voice note. Could you please record yourself reading this text aloud and send it to me? `PLACEHOLDER_1`"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Awesome! Now, I'd like you to record a voice note reading this text aloud: `PLACEHOLDER_1`. Please send it to me once you're done."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great job! Now, I need you to record a voice note reading this text aloud: `PLACEHOLDER_1`. Please send it to me once you're done."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great job! Now, I need you to record a voice note reading a provided text aloud. Please find the text below: `PLACEHOLDER_1`. Just record yourself reading it, and send it over to me."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great job! I've received your assessment and I'll review it shortly. Now, I need you to record a voice note reading this text aloud `PLACEHOLDER_1`. Please go ahead and send it over."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Great job! Your answers will help us understand your skills better. Next, I need you to record a voice note reading a provided text aloud. Please find the text below: `PLACEHOLDER_1`"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! Now, I need you to record a voice note reading a provided text aloud. Please find the text below: `PLACEHOLDER_1`. Record yourself reading it, and send the voice note back to me."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! Now, I'd like you to record a voice note reading the following text aloud: `PLACEHOLDER_1`. This will help me assess your English level. Please go ahead and send the voice note."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! Your answers look great. Next, I need you to record a voice note reading a provided text aloud. Please find the text below: `PLACEHOLDER_1`"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! I'll review your answers. Next, I need you to record a voice note reading this text aloud: `PLACEHOLDER_1`. Please send it to me."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! Your responses will help us understand your skills better. Now, I'd like you to record a voice note reading this text aloud: `PLACEHOLDER_1`. Please send it to me once you're done."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! Next, I need you to record a voice note reading a provided text aloud. Please find the text below. `PLACEHOLDER_1`"
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Perfect. Now, I\u2019d like you to record a voice note reading the following text aloud: `PLACEHOLDER_1`. This will help us assess your English speaking skills."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Awesome! Now, I need you to record a voice note reading the following text aloud: \"PLACEHOLDER_1\". Once you\u2019ve done that, send it to me here."
+        }
+    ],
+    [
+        {
+            "speaker": "System",
+            "message": "Grammar assessment form completed."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Excellent! Now, I need you to record a voice note reading the following text aloud: `PLACEHOLDER_1`. This will help us assess your English pronunciation and fluency. Please send the voice note when you're done."
+        }
+    ]
+
+]

@@ -5767,7 +5767,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Great, thank you! Now, I need you to answer a two-question assessment. I'll send you the form now. |Shares assessment form|"
+                "message": "Great, thank you! Now, I need you to answer a two-question assessment. I'll send you the form now."
             },
             {
                 "speaker": "Applicant",
@@ -6519,7 +6519,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Great! Now, let's move on to the next step. Please fill out this short assessment. It has two questions that require detailed answers. |shares assessment form|"
+                "message": "Great! Now, let's move on to the next step. Please fill out this short assessment. It has two questions that require detailed answers."
             },
             {
                 "speaker": "Applicant",
@@ -17447,7 +17447,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Awesome, thanks for being so quick! Next, I need you to answer a two-question assessment to evaluate your skills. Please find the form attached. [shares form]"
+                "message": "Awesome, thanks for being so quick! Next, I need you to answer a two-question assessment to evaluate your skills. Please find the form attached."
             },
             {
                 "speaker": "Applicant",
@@ -26475,7 +26475,7 @@
             },
             {
                 "speaker": "Applicant",
-                "message": "Okay, I'll fill it out then. Just filled it out! I've completed the form with my name, English level, and accepted the terms and conditions."
+                "message": "Okay, I'll fill it out then. Just filled it out! I've completed the form with my name and other fields"
             },
             {
                 "speaker": "System",
@@ -27715,7 +27715,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Great job! I've received your assessment. Now, let's test your English skills. Could you please record a voice note reading this text aloud?"
+                "message": "Great job! I've received your assessment. Now, let's test your English skills. Could you please record a voice note reading this text aloud? `PLACEHOLDER_1`"
             },
             {
                 "speaker": "Applicant",
@@ -29543,7 +29543,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Great job! Now, I need you to record a voice note reading a provided text aloud. Please find the text below. Just record yourself reading it, and send it to me."
+                "message": "Great job! Now, I need you to record a voice note reading a provided text aloud. Please find the text below. Just record yourself reading it, and send it to me. `PLACEHOLDER_1`"
             },
             {
                 "speaker": "Applicant",
@@ -33415,7 +33415,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Great job! Now, I need you to record a voice note reading this text aloud: PLACEHOLDER_1. Please send it to me once you're done."
+                "message": "Great job! Now, I need you to record a voice note reading this text aloud: `PLACEHOLDER_1`. Please send it to me once you're done."
             },
             {
                 "speaker": "Applicant",
@@ -34303,7 +34303,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Great job! Now, I need you to record a voice note reading a provided text aloud. Please find the text below: PLACEHOLDER_1. Just record yourself reading it, and send it over to me."
+                "message": "Great job! Now, I need you to record a voice note reading a provided text aloud. Please find the text below: `PLACEHOLDER_1`. Just record yourself reading it, and send it over to me."
             },
             {
                 "speaker": "Applicant",
@@ -34935,7 +34935,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Great job! I've received your assessment and I'll review it shortly. Now, I need you to record a voice note reading this text aloud [ PLACEHOLDER_1]. Please go ahead and send it over."
+                "message": "Great job! I've received your assessment and I'll review it shortly. Now, I need you to record a voice note reading this text aloud `PLACEHOLDER_1`. Please go ahead and send it over."
             },
             {
                 "speaker": "Applicant",
@@ -35299,7 +35299,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Great job! Your answers will help us understand your skills better. Next, I need you to record a voice note reading a provided text aloud. Please find the text below:"
+                "message": "Great job! Your answers will help us understand your skills better. Next, I need you to record a voice note reading a provided text aloud. Please find the text below: `PLACEHOLDER_1`"
             },
             {
                 "speaker": "Applicant",
@@ -35379,7 +35379,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Excellent! Now, I need you to record a voice note reading a provided text aloud. Please find the text below: PLACEHOLDER_1. Record yourself reading it, and send the voice note back to me."
+                "message": "Excellent! Now, I need you to record a voice note reading a provided text aloud. Please find the text below: `PLACEHOLDER_1`. Record yourself reading it, and send the voice note back to me."
             },
             {
                 "speaker": "Applicant",
@@ -39363,7 +39363,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Excellent! Now, I'd like you to record a voice note reading the following text aloud: PLACEHOLDER_1. This will help me assess your English level. Please go ahead and send the voice note."
+                "message": "Excellent! Now, I'd like you to record a voice note reading the following text aloud: `PLACEHOLDER_1`. This will help me assess your English level. Please go ahead and send the voice note."
             },
             {
                 "speaker": "Applicant",
@@ -39431,7 +39431,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Excellent! Your answers look great. Next, I need you to record a voice note reading a provided text aloud. Please find the text below:"
+                "message": "Excellent! Your answers look great. Next, I need you to record a voice note reading a provided text aloud. Please find the text below: `PLACEHOLDER_1`"
             },
             {
                 "speaker": "Applicant",
@@ -39599,7 +39599,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Excellent! I'll review your answers. Next, I need you to record a voice note reading this text aloud: PLACEHOLDER_1. Please send it to me."
+                "message": "Excellent! I'll review your answers. Next, I need you to record a voice note reading this text aloud: `PLACEHOLDER_1`. Please send it to me."
             },
             {
                 "speaker": "Applicant",
@@ -39959,7 +39959,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Excellent! Your responses will help us understand your skills better. Now, I'd like you to record a voice note reading this text aloud: PLACEHOLDER_1. Please send it to me once you're done."
+                "message": "Excellent! Your responses will help us understand your skills better. Now, I'd like you to record a voice note reading this text aloud: `PLACEHOLDER_1`. Please send it to me once you're done."
             },
             {
                 "speaker": "Applicant",
@@ -40807,7 +40807,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Great job! Now, I need you to record a voice note reading a provided text aloud. Please find the text below: PLACEHOLDER_1. Can you record yourself reading it and send it to me?"
+                "message": "Great job! Now, I need you to record a voice note reading a provided text aloud. Please find the text below: `PLACEHOLDER_1`. Can you record yourself reading it and send it to me?"
             },
             {
                 "speaker": "Applicant",
@@ -40883,7 +40883,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Excellent! Next, I need you to record a voice note reading a provided text aloud. Please find the text below."
+                "message": "Excellent! Next, I need you to record a voice note reading a provided text aloud. Please find the text below. `PLACEHOLDER_1`"
             },
             {
                 "speaker": "Applicant",
