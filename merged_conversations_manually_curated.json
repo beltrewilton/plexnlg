@@ -67,7 +67,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Sure, here is assessment form again:"
+                "message": "Don't worry, you've already completed the assessment, and everything is in order. You don't need to review or resubmit anything."
             },
             {
                 "speaker": "Applicant",
@@ -103,7 +103,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Great, thanks! Next, I need you to complete a two-question assessment. Here's the form. Please answer the questions in two long paragraphs. Let me know when you're done!"
+                "message": "Great, thanks! Next, I need you to complete a two-question assessment. Here's the form. Please answer the questions in two long paragraphs."
             },
             {
                 "speaker": "Applicant",
@@ -167,7 +167,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Sure, here\u2019s the talent form again."
+                "message": "No need to worry, you've already completed the assessment. Everything is taken care of."
             },
             {
                 "speaker": "Applicant",
@@ -211,7 +211,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Hi! I'm Maria, the recruiter for this position. Great to meet you! Let's get started with a few tasks to move forward. First, please fill out this talent form with your name, English level, and acceptance of terms and conditions"
+                "message": "Hi! I'm Maria, the recruiter for this position. Great to meet you! Let's get started with a few tasks to move forward."
             },
             {
                 "speaker": "Applicant",
@@ -223,7 +223,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Awesome, thank you! Next, I'd like you to answer a two-question assessment to evaluate your skills. Please take your time and answer each question in two long paragraphs."
+                "message": "Awesome, thank you! Next, I'd like you to answer a two-question assessment to evaluate your skills. Please take your time and answer each question."
             },
             {
                 "speaker": "Applicant",
@@ -304,10 +304,6 @@
             {
                 "speaker": "Recruiter",
                 "message": "Goodbye!"
-            },
-            {
-                "speaker": "System",
-                "message": "Process ended."
             }
         ]
     },
@@ -327,7 +323,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "I'm good, thank you! Let's get started with the application process. Could you please fill out this talent form with your name, English level, and acceptance of the terms and conditions?"
+                "message": "I'm good, thank you! Let's get started with the application process. Could you please fill out this talent form with some profile information."
             },
             {
                 "speaker": "Applicant",
@@ -403,19 +399,11 @@
             },
             {
                 "speaker": "Applicant",
-                "message": "Thanks, Maria. Looking forward to hearing from you soon!"
+                "message": "Okay your welcome, can you tell me a bit about the salary and commission structure?"
             },
             {
                 "speaker": "Recruiter",
-                "message": "Hi again! Everything looks good. We'd like to move forward with scheduling an in-person interview. When would you be available to come in?"
-            },
-            {
-                "speaker": "Applicant",
-                "message": "Before we schedule, can you tell me a bit about the salary and commission structure?"
-            },
-            {
-                "speaker": "Recruiter",
-                "message": "We offer a good salary and commission structure, but the details must be discussed in person with a human recruiter. When can you come in for the interview?"
+                "message": "We offer a good salary and commission structure, but the details must be discussed in person with a human recruiter."
             },
             {
                 "speaker": "Applicant",
@@ -544,10 +532,6 @@
             {
                 "speaker": "Recruiter",
                 "message": "Thank you for letting us know. If you ever reconsider, feel free to reach out. Have a great day!"
-            },
-            {
-                "speaker": "System",
-                "message": "Task N completed."
             }
         ]
     },
@@ -10263,7 +10247,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Hello! Sure thing, I'm Maria, and I'll be guiding you through the process. Let's get started with a talent form. I'll send it over now. Please fill it out with your name, English level, and accept the terms and conditions. |Maria shares the form|"
+                "message": "Hello! Sure thing, I'm Maria, and I'll be guiding you through the process. Let's get started with a talent form. I'll send it over now. Please fill it out."
             },
             {
                 "speaker": "Applicant",
@@ -10471,7 +10455,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Hi! Thanks for reaching out. I\u2019m Maria, the recruiter for this position. Can I have your name?"
+                "message": "Hi! Thanks for reaching out. Let's answer a few basic questions to create your profile and get you closer to success - ready, let's go! 🚀"
             },
             {
                 "speaker": "Applicant",
@@ -10599,7 +10583,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Hello! This is Maria from the recruitment team. How can I assist you today?"
+                "message": "Hello! We’re excited to help you on your journey to landing your next great job and achieving success! 🎯"
             },
             {
                 "speaker": "Applicant",
@@ -10739,7 +10723,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Hi! Thanks for reaching out. I'm Maria, the recruiter. Great to meet you! Let's get started with the process. Could you please complete this talent form with your name, English level, and acceptance of terms and conditions?"
+                "message": "Hi! Thanks for reaching out. I'm Maria, the recruiter. Great to meet you! Let's get started with the process. Could you please complete this talent form?"
             },
             {
                 "speaker": "Recruiter",
@@ -18035,7 +18019,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Hi there! I'm Recruiter, the recruiter. Thanks for reaching out. I'd like to guide you through the next steps. First, could you please complete this basic form with your required information? I'll share it with you now. [shares form]"
+                "message": "Hi there! I'm Recruiter, the recruiter. Thanks for reaching out. I'd like to guide you through the next steps. First, could you please complete this basic form with your required information? I'll share it with you now."
             },
             {
                 "speaker": "Applicant",
@@ -19599,7 +19583,7 @@
             },
             {
                 "speaker": "Recruiter",
-                "message": "Hi there! I'm Recruiter, the recruiter for the call center agent role. Thanks for reaching out! I'd like to guide you through the next steps. First, could you please complete this basic form with your required information? I'll share it with you. [shares form]"
+                "message": "Hi there! I'm Recruiter, the recruiter for the call center agent role. Thanks for reaching out! I'd like to guide you through the next steps. First, could you please complete this basic form with your required information? I'll share it with you."
             },
             {
                 "speaker": "Applicant",

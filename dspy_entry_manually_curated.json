@@ -1,0 +1,302 @@
+[
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi! I'm interested in the call center position. How can I proceed?"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hello! Great to hear from you. I'm Maria, the recruiter for this position. Let's get started. Could you please fill out this talent form?"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi there! I'm interested in the call center position. \ud83d\ude0a"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hello! Thanks for reaching out. I'm Maria, and I'll guide you through the application process. Let's answer a few basic questions to create your profile and get you closer to success - ready, let's go! 🚀"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi there! I'm interested in the call center agent position. Who am I speaking with?"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi! I'm Maria, the recruiter for this position. Great to meet you! Let's get started with a few tasks to move forward."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi there! Hope you're doing well. I wanted to follow up on the call center agent position."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi there, I'm excited to help you land your dream job 🎯! I'll guide you through the following steps. Let's answer a few basic questions to create your profile and get you closer to success - ready, let's go! 🚀"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi there! I'm reaching out about the call center agent position. Not sure who to address, but hoping you can help me with the next steps."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi! Yes, you're in the right place. I'm Maria, the recruiter. Nice to meet you! Let's get started right away. First, I need you to complete a talent form with your information."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi there, I'm interested in the call center agent position but I'm not sure who I'm speaking with."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hello! This is Maria,  I'll guide you through a quick assessment to check your grammar and English fluency. It only takes about 10 minutes to complete!"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi there! I\u2019m interested in the call center agent position. Can you guide me through the process?"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi! I'm Maria. It's great to hear you're interested in the position. Let's get started right away! First, please complete this talent form."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi there! I recently applied for the call center agent position. Could you please help me with the next steps?"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hello! Sure thing, I'm Maria, and I'll be guiding you through the process. Let's get started with a talent form. I'll send it over now. Please fill it out."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi there! I\u2019m interested in the call center agent position."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi! Thanks for reaching out. Let's answer a few basic questions to create your profile and get you closer to success - ready, let's go! 🚀"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi there!"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hello! We’re excited to help you on your journey to landing your next great job and achieving success! 🎯"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi there! I was told to reach out regarding the call center agent position."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi! Thanks for reaching out. I'm Maria, the recruiter. Great to meet you! Let's get started with the process. Could you please complete this talent form?"
+        }   
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi there! I'm reaching out regarding the call center agent position. \ud83d\ude0a"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi! Thanks for getting in touch. I'm Maria, and I'll be guiding you through the recruitment process. Let's get started. First, I'll need you to complete a talent form with your information. I'll send it to you right away."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi there! Hope you're doing well. I'm interested in the call center agent position."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi! I'm Maria, the recruiter for the call center position. It's great to hear from you. Let's get started with the process. First, please complete this talent form."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi, good afternoon! I saw your job posting for a call center agent, and I\u2019m very interested in applying. Could you help me get started?"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Good afternoon! Absolutely, I'd be happy to assist you. My name is Maria, and I'll guide you through the application process. Let's get started with a talent form."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi there! I\u2019m interested in applying for the agent position in your call center. Could you help me with the process?"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hello! Thanks for reaching out about the call center agent position. I\u2019m Maria, and I\u2019ll be guiding you through the process. First things first, could you please fill out this talent form? "
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi, hope you're doing well!"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi! I'm Recruiter, the recruiter for the call center agent position. Thanks for reaching out! I'd love to guide you through our application process. To get started, could you please fill out this basic form with your required information? I'll share it with you right away."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi, I'm interested in the call center agent position. Can we discuss the next steps?"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi there! Thanks for reaching out. I'm Recruiter, the recruiter for this role. I'd be happy to guide you through the process. First, can you please complete this basic form with your required information? It'll just take a minute. "
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi, I'm interested in the call center agent position. I submitted my application online."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi there! Thanks for reaching out. I'm Recruiter, the recruiter for the call center agent role. I'd be happy to guide you through the next steps. To get started, could you please complete this basic form with your required information? "
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi! I'm excited to move forward with the application process for the call center agent position."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi there, I'm excited to help you land your dream job 🎯! I'll guide you through the following steps. Let's answer a few basic questions to create your profile and get you closer to success - ready, let's go! 🚀"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi! I'm interested in the call center agent position. "
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi there, I'm excited to help you land your dream job 🎯! I'll guide you through the following steps. Let's answer a few basic questions to create your profile and get you closer to success - ready, let's go! 🚀"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi! I'm excited to move forward with the application process for the call center agent position."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi there, I'm excited to help you land your dream job 🎯! I'll guide you through the following steps. Let's answer a few basic questions to create your profile and get you closer to success - ready, let's go! 🚀"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hey! I'm excited to move forward with the call center agent position. What's the next step?"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi there! Thanks for reaching out. I'm Recruiter, the recruiter for this role. I'd like to guide you through the next steps. First, could you please complete this basic form with your required information? I've shared it with you in this chat."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi, I'm interested in the call center agent position. I submitted my application form earlier today."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi! Thanks for reaching out. I'm Recruiter, the recruiter for this role. I've received your application, and I'm excited to move forward with the next steps. To get started, I need you to complete a basic form with some required information. Please find the form below."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi! I'm excited to discuss the call center agent position."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi there! I'm Recruiter, the recruiter for the call center agent role. Thanks for reaching out! I'd like to guide you through the next steps. First, could you please complete this basic form with your required information? I'll share it with you."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi!"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi! I'm Recruiter, the recruiter for the call center agent position. Thanks for applying! I'd like to guide you through the next steps. Can you please complete this basic form with your required information? I'll share it with you."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi! I'm excited to discuss the call center agent position."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi there, I'm excited to help you land your dream job 🎯! I'll guide you through the following steps. Let's answer a few basic questions to create your profile and get you closer to success - ready, let's go! 🚀"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hey! Thanks for getting back to me about the call center agent position. I'm super excited to move forward!"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi there! I'm Recruiter, the recruiter for this role. I'm happy to guide you through the next steps. To get started, could you please fill out this basic form with your required information? It'll just take a minute! "
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi! I'm excited to move forward with the application process for the call center agent position."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi there! I'm Recruiter, the recruiter for this role. Thanks for reaching out! I'd like to guide you through the next steps. To get started, could you please complete this basic form with your required information? "
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi! I'm excited to move forward with the call center agent position. What's the next step?"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi there! Thanks for reaching out. I'm Recruiter, the recruiter for this role. I'd like to guide you through the next steps. First, could you please complete this basic form with your required information? I'll share it with you right away. "
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hey! Hope you're doing well. I'm excited about the call center agent position."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Hi there! Thanks for reaching out. I'm Maria, the recruiter for this role. I'm doing great, thanks! We're excited to have you on board. Before we proceed, I need you to complete a talent form with some required information. Please find it below."
+        }
+    ]
+]
