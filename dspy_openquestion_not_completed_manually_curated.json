@@ -1,171 +1,188 @@
 [
     [
         {
-            "speaker": "System",
-            "message": "Voice note for Open question sent."
+            "speaker": "Applicant",
+            "message": "Voice note for Open question sent.",
+			"current_task": "Open question"
         },
         {
-            "speaker": "Applicant",
+            "speaker": "Recruiter",
             "message": "I appreciate your update, however, I couldn't find the voice note for the open question. Complete the step by sending the voice note for your response, thank you."
         }
     ],
     [
         {
-            "speaker": "System",
-            "message": "I\u2019ve sent the voice note with my response"
+            "speaker": "Applicant",
+            "message": "I\u2019ve sent the voice note with my response",
+			"current_task": "Open question"
         },
         {
-            "speaker": "Applicant",
+            "speaker": "Recruiter",
             "message": "It seems the voice note for the open question hasn't been received yet. Complete the submission by sending it across, so we can review your response"
         }
     ],
     [
         {
-            "speaker": "System",
-            "message": "I've sent my response to the open-ended question."
+            "speaker": "Applicant",
+            "message": "I've sent my response to the open-ended question.",
+			"current_task": "Open question"
         },
         {
-            "speaker": "Applicant",
+            "speaker": "Recruiter",
             "message": "I appreciate your response. However, it seems that the voice note for the open-ended question hasn't been received. Complete the submission by sending the voice note to ensure your answer is recorded"
         }
     ],
     [
         {
-            "speaker": "System",
-            "message": "Just sent you the voice note with my response to the open-ended question."
+            "speaker": "Applicant",
+            "message": "Just sent you the voice note with my response to the open-ended question.",
+			"current_task": "Open question"
         },
         {
-            "speaker": "Applicant",
+            "speaker": "Recruiter",
             "message": "Complete your task by double-checking and sending the voice note for the open-ended question as it doesn't appear to have been received."
         }
     ],
     [
         {
-            "speaker": "System",
-            "message": "I've sent the response"
+            "speaker": "Applicant",
+            "message": "I've sent the response",
+			"current_task": "Open question"
         },
         {
-            "speaker": "Applicant",
+            "speaker": "Recruiter",
             "message": " I don't seem to have received the voice note for the open question via WhatsApp. Please double-check that it was sent correctly and try again if needed. Complete sending the voice note so I can review your response."
         }
     ],
     [
         {
-            "speaker": "System",
-            "message": "Got it. I'll record the response now"
+            "speaker": "Applicant",
+            "message": "Got it. I'll record the response now",
+			"current_task": "Open question"
         },
         {
-            "speaker": "Applicant",
+            "speaker": "Recruiter",
             "message": "Complete sending the voice note for the open-ended question via Whatsapp, as it hasn't been received yet."
         }
     ],
     [
         {
-            "speaker": "System",
-            "message": "Sure, I'll send that shortly."
+            "speaker": "Applicant",
+            "message": "Sure, I'll send that shortly.",
+			"current_task": "Open question"
         },
         {
-            "speaker": "Applicant",
+            "speaker": "Recruiter",
             "message": "Complete your response by sending the voice note for the open question, it doesn't appear to have been sent."
         }
     ],
     [
         {
-            "speaker": "System",
-            "message": "I've sent the voice note with my response to the open-ended question."
+            "speaker": "Applicant",
+            "message": "I've sent the voice note with my response to the open-ended question.",
+			"current_task": "Open question"
         },
         {
-            "speaker": "Applicant",
+            "speaker": "Recruiter",
             "message": "Just to confirm, I don't see a voice note for the open question. Complete the recording and re-share the voice note so I can review your response"
         }
     ],
     [
         {
-            "speaker": "System",
-            "message": "I've sent my response. Let me know if you need anything else!"
+            "speaker": "Applicant",
+            "message": "I've sent my response. Let me know if you need anything else!",
+			"current_task": "Open question"
         },
         {
-            "speaker": "Applicant",
+            "speaker": "Recruiter",
             "message": "It seems we haven't received the voice note for the open-ended question. Complete the submission by sending the voice note with your response, thank you."
         }
     ],
     [
         {
-            "speaker": "System",
-            "message": "Voice note sent! Let me know"
+            "speaker": "Applicant",
+            "message": "Voice note sent! Let me know",
+			"current_task": "Open question"
         },
         {
-            "speaker": "Applicant",
+            "speaker": "Recruiter",
             "message": "I don't see a voice note for the open-ended question. Complete the task by sending the voice note with your response, and I'll be happy to review it."
         }
     ],
     [
         {
-            "speaker": "System",
-            "message": "I\u2019ve sent the voice note with my response to the open-ended question."
+            "speaker": "Applicant",
+            "message": "I\u2019ve sent the voice note with my response to the open-ended question.",
+			"current_task": "Open question"
         },
         {
-            "speaker": "Applicant",
+            "speaker": "Recruiter",
             "message": "Thanks for trying. Just a heads up, we can't seem to find that voice note for the open-ended question. Complete a quick double-check to make sure it went through, and we'll be all set."
         }
     ],
     [
         {
-            "speaker": "System",
-            "message": "Done with the response"
+            "speaker": "Applicant",
+            "message": "Done with the response",
+			"current_task": "Open question"
         },
         {
-            "speaker": "Applicant",
+            "speaker": "Recruiter",
             "message": "appreciate the enthusiasm, but it seems like the voice note for the open question didn't quite make it our way. Complete the task by re-sending the voice note, and we'll be all set"
         }
     ],
     [   
         {
-            "speaker": "System",
-            "message": "Got it, I'll record my response now."
+            "speaker": "Applicant",
+            "message": "Got it, I'll record my response now.",
+			"current_task": "Open question"
         },
         {
-            "speaker": "Applicant",
+            "speaker": "Recruiter",
             "message": "Haha, love the enthusiasm. Complete checking your messages to ensure the voice note for the open question has indeed been sent our way. It's not showing up on our end, just a heads up!"
         }
     ],
     [   
         {
-            "speaker": "System",
-            "message": "Okay, I'll record my response now. Just sent the voice note"
+            "speaker": "Applicant",
+            "message": "Okay, I'll record my response now. Just sent the voice note",
+			"current_task": "Open question"
         },
         {
-            "speaker": "Applicant",
+            "speaker": "Recruiter",
             "message": "Haha, we think there might be a slight miscommunication. It doesn't look like we've received the voice note for the open-ended question just yet. Complete the upload for us, and we'll be all set to review your response!"
         }
     ],
     [   
         {
-            "speaker": "System",
-            "message": "Recorded my response. Sending the voice note now!"
+            "speaker": "Applicant",
+            "message": "Recorded my response. Sending the voice note now!",
+			"current_task": "Open question"
         },
         {
-            "speaker": "Applicant",
+            "speaker": "Recruiter",
             "message": "It seems like your voice note got lost in transit. Complete the voice note submission for the open-ended question, and we'll be good to go."
         }
     ],
     [   
         {
-            "speaker": "System",
-            "message": "Got it! Just recorded my response. Here's the voice note!"
+            "speaker": "Applicant",
+            "message": "Got it! Just recorded my response. Here's the voice note!",
+			"current_task": "Open question"
         },
         {
-            "speaker": "Applicant",
+            "speaker": "Recruiter",
             "message": "Thanks for trying, but it looks like the voice note for the open question hasn't landed on our end. Complete the resend and we'll get it sorted out"
         }
     ],
     [   
         {
-            "speaker": "System",
-            "message": "Got it! Just recorded my response. Here's the voice note"
+            "speaker": "Applicant",
+            "message": "Got it! Just recorded my response. Here's the voice note",
+			"current_task": "Open question"
         },
         {
-            "speaker": "Applicant",
+            "speaker": "Recruiter",
             "message": "Thanks for letting me know. Just a quick check, though - I don't see a voice note for the open-ended question. Complete the task by sending it, and I'll be all set"
         }
     ]

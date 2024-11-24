@@ -2,7 +2,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Got it! I've filled out the form. Please let me know what's next."
+            "message": "Got it! I've filled out the form. Please let me know what's next.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -11,8 +12,9 @@
     ],
     [
         {
-            "speaker": "System",
-            "message": "Talent entry form completed."
+            "speaker": "Applicant",
+            "message": "Talent entry form completed.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -21,8 +23,9 @@
     ],
     [
         {
-            "speaker": "System",
-            "message": "Talent entry form completed."
+            "speaker": "Applicant",
+            "message": "Talent entry form completed.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -31,8 +34,9 @@
     ],
     [
         {
-            "speaker": "System",
-            "message": "Okay, got it. Done! I've filled out the form. Please let me know what's next."
+            "speaker": "Applicant",
+            "message": "Okay, got it. Done! I've filled out the form. Please let me know what's next.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -41,8 +45,9 @@
     ],
     [
         {
-            "speaker": "System",
-            "message": "Okay, got it. Done! I've filled out the form. Please let me know what's next."
+            "speaker": "Applicant",
+            "message": "Okay, got it. Done! I've filled out the form. Please let me know what's next.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -51,8 +56,9 @@
     ],
     [
         {
-            "speaker": "System",
-            "message": "Got it! I've filled out the form."
+            "speaker": "Applicant",
+            "message": "Got it! I've filled out the form.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -61,8 +67,9 @@
     ],
     [
         {
-            "speaker": "System",
-            "message": "Okay, I'll give it a shot. Done! I just filled it out."
+            "speaker": "Applicant",
+            "message": "Okay, I'll give it a shot. Done! I just filled it out.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -71,8 +78,9 @@
     ],
     [
         {
-            "speaker": "System",
-            "message": "Done! I've completed the form."
+            "speaker": "Applicant",
+            "message": "Done! I've completed the form.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -81,8 +89,9 @@
     ],
     [
         {
-            "speaker": "System",
-            "message": "Got it! I've completed the form. My name is Emily, my English level is intermediate, and I accept the terms and conditions."
+            "speaker": "Applicant",
+            "message": "Got it! I've completed the form. My name is Emily, my English level is intermediate, and I accept the terms and conditions.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -91,8 +100,9 @@
     ],
     [
         {
-            "speaker": "System",
-            "message": "Just completed the form! Please let me know what's next."
+            "speaker": "Applicant",
+            "message": "Just completed the form! Please let me know what's next.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -101,8 +111,9 @@
     ],
     [
         {
-            "speaker": "System",
-            "message": "Okay, got it. Done! Just submitted the form"
+            "speaker": "Applicant",
+            "message": "Okay, got it. Done! Just submitted the form",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -111,8 +122,9 @@
     ],
     [
         {
-            "speaker": "System",
-            "message": "Just completed the talent form! Thanks for sharing it."
+            "speaker": "Applicant",
+            "message": "Just completed the talent form! Thanks for sharing it.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -121,8 +133,9 @@
     ],
     [
         {
-            "speaker": "System",
-            "message": "Just completed the talent form! Thanks for sharing it."
+            "speaker": "Applicant",
+            "message": "Just completed the talent form! Thanks for sharing it.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -131,8 +144,9 @@
     ],
     [
         {
-            "speaker": "System",
-            "message": "Okay, I'll fill it out then. Just filled it out! I've completed the form with my name and other fields"
+            "speaker": "Applicant",
+            "message": "Okay, I'll fill it out then. Just filled it out! I've completed the form with my name and other fields",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -141,8 +155,9 @@
     ],
     [
         {
-            "speaker": "System",
-            "message": "Just filled out the form! It was quick and easy. What's next?"
+            "speaker": "Applicant",
+            "message": "Just filled out the form! It was quick and easy. What's next?",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -151,8 +166,9 @@
     ],
     [
         {
-            "speaker": "System",
-            "message": "Okay, got it! I'll do my best. I've filled out the form. What's next?"
+            "speaker": "Applicant",
+            "message": "Okay, got it! I'll do my best. I've filled out the form. What's next?",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",

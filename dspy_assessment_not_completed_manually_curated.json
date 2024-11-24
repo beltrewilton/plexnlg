@@ -2,170 +2,187 @@
     [
         {
             "speaker": "Applicant",
-            "message": "I\u2019ve finished the assessment."
+            "message": "I\u2019ve finished the assessment.",
+			"current_task": "Grammar assessment form"
         },
         {
-            "speaker": "System",
+            "speaker": "Recruiter",
             "message": "Great to hear you've made progress on the assessment. However, it seems it's not fully completed yet. Please find it in this chat and fill it out entirely. Complete the remaining sections so we can review it"
         }
     ],
     [
         {
             "speaker": "Applicant",
-            "message": "I\u2019ve completed the assessment."
+            "message": "I\u2019ve completed the assessment.",
+			"current_task": "Grammar assessment form"
         },
         {
-            "speaker": "System",
+            "speaker": "Recruiter",
             "message": "It seems the assessment isn't fully complete yet. Please review the assessment in this chat and complete it. We appreciate your cooperation"
         }
     ],
     [
         {
             "speaker": "Applicant",
-            "message": "Done with the assessment, Maria."
+            "message": "Done with the assessment, Maria.",
+			"current_task": "Grammar assessment form"
         },
         {
-            "speaker": "System",
+            "speaker": "Recruiter",
             "message": "I appreciate you letting me know you've finished the assessment. However, I couldn't find a completed one. Please find the assessment in this chat and complete it"
         }
     ],
     [
         {
             "speaker": "Applicant",
-            "message": "I have completed the assessment form and submitted it."
+            "message": "I have completed the assessment form and submitted it.",
+			"current_task": "Grammar assessment form"
         },
         {
-            "speaker": "System",
+            "speaker": "Recruiter",
             "message": "Just to confirm, it doesn't appear the assessment is complete. Please locate it in this chat and complete the remaining questions."
         }
     ],
     [
         {
             "speaker": "Applicant",
-            "message": "Done with the assessment as well"
+            "message": "Done with the assessment as well",
+			"current_task": "Grammar assessment form"
         },
         {
-            "speaker": "System",
+            "speaker": "Recruiter",
             "message": "You're almost done, find the assessment in this chat and complete the remaining part."
         }
     ],
     [
         {
             "speaker": "Applicant",
-            "message": "alright, I'll get on it. I've finished the assessment."
+            "message": "alright, I'll get on it. I've finished the assessment.",
+			"current_task": "Grammar assessment form"
         },
         {
-            "speaker": "System",
+            "speaker": "Recruiter",
             "message": "I'm glad you think you've finished the assessment, but it looks like there are still some sections to complete. Please find the assessment in this chat and complete it. We'll be happy to review it once you're done."
         }
     ],
     [
         {
             "speaker": "Applicant",
-            "message": "I've answered the questions."
+            "message": "I've answered the questions.",
+			"current_task": "Grammar assessment form"
         },
         {
-            "speaker": "System",
+            "speaker": "Recruiter",
             "message": "Great that you've reached this far. However, it seems like the assessment isn't quite done yet. Find it in this chat and complete the remaining parts"
         }
     ],
     [
         {
             "speaker": "Applicant",
-            "message": "I've answered the questions in the form as requested."
+            "message": "I've answered the questions in the form as requested.",
+			"current_task": "Grammar assessment form"
         },
         {
-            "speaker": "System",
+            "speaker": "Recruiter",
             "message": "It seems like you haven't finished the assessment yet. Locate it in our chat history and complete it. Complete the remaining sections, and I'll assist you further."
         }
     ],
     [
         {
             "speaker": "Applicant",
-            "message": "Just finished answering the questions in the assessment form."
+            "message": "Just finished answering the questions in the assessment form.",
+			"current_task": "Grammar assessment form"
         },
         {
-            "speaker": "System",
+            "speaker": "Recruiter",
             "message": "You've reported finishing the assessment, but it seems there's still work to be done. Find the assessment in this chat and complete it."
         }
     ],
     [
         {
             "speaker": "Applicant",
-            "message": "Just finished the assessment"
+            "message": "Just finished the assessment",
+			"current_task": "Grammar assessment form"
         },
         {
-            "speaker": "System",
+            "speaker": "Recruiter",
             "message": "Complete the assessment, it's available in this chat. It looks like you still have some questions to answer."
         }
     ],
     [
         {
             "speaker": "Applicant",
-            "message": "I've answered the questions"
+            "message": "I've answered the questions",
+			"current_task": "Grammar assessment form"
         },
         {
-            "speaker": "System",
+            "speaker": "Recruiter",
             "message": "Thank you for letting me know. However, it seems the assessment is still pending. Please find it in this chat and complete it"
         }
     ],
     [
         {
             "speaker": "Applicant",
-            "message": "Okay, I've finished the assessment. I've submitted my answers."
+            "message": "Okay, I've finished the assessment. I've submitted my answers.",
+			"current_task": "Grammar assessment form"
         },
         {
-            "speaker": "System",
+            "speaker": "Recruiter",
             "message": "I've received your update, however, I don't see the assessment as finished. Please find it in this chat and complete it to finalize the process."
         }
     ],
     [
         {
             "speaker": "Applicant",
-            "message": "Grammar assessment form completed."
+            "message": "Grammar assessment form completed.",
+			"current_task": "Grammar assessment form"
         },
         {
-            "speaker": "System",
+            "speaker": "Recruiter",
             "message": "It seems like the grammar assessment is still pending. Please find it in this chat and complete it to move forward."
         }
     ],
     [
         {
             "speaker": "Applicant",
-            "message": "Okay, I've completed the assessment. Sent!"
+            "message": "Okay, I've completed the assessment. Sent!",
+			"current_task": "Grammar assessment form"
         },
         {
-            "speaker": "System",
+            "speaker": "Recruiter",
             "message": "The grammar assessment doesn't seem complete. Please find it in this chat and complete the remaining sections"
         }
     ],
     [
         {
             "speaker": "Applicant",
-            "message": "I've completed the assessment. Waiting for your feedback!"
+            "message": "I've completed the assessment. Waiting for your feedback!",
+			"current_task": "Grammar assessment form"
         },
         {
-            "speaker": "System",
+            "speaker": "Recruiter",
             "message": "Great job on starting, however it seems the assessment isn't finished yet. Please find it in this chat and complete it."
         }
     ],
     [
         {
             "speaker": "Applicant",
-            "message": "I've completed the grammar part. What's the next step?"
+            "message": "I've completed the grammar part. What's the next step?",
+			"current_task": "Grammar assessment form"
         },
         {
-            "speaker": "System",
+            "speaker": "Recruiter",
             "message": "It seems your assessment isn't complete yet. Please find it in this chat and complete the grammar assessment."
         }
     ],
     [
         {
             "speaker": "Applicant",
-            "message": "I've submitted my answers. Please review them"
+            "message": "I've submitted my answers. Please review them",
+			"current_task": "Grammar assessment form"
         },
         {
-            "speaker": "System",
+            "speaker": "Recruiter",
             "message": "I've reviewed your progress and it appears the grammar assessment isn't finished. Please locate it in this chat and complete it to proceed"
         }
     ]

@@ -2,7 +2,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi! I'm interested in the call center position. How can I proceed?"
+            "message": "Hi! I'm interested in the call center position. How can I proceed?",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -12,7 +13,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi there! I'm interested in the call center position. \ud83d\ude0a"
+            "message": "Hi there! I'm interested in the call center position. \ud83d\ude0a",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -22,7 +24,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi there! I'm interested in the call center agent position. Who am I speaking with?"
+            "message": "Hi there! I'm interested in the call center agent position. Who am I speaking with?",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -32,7 +35,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi there! Hope you're doing well. I wanted to follow up on the call center agent position."
+            "message": "Hi there! Hope you're doing well. I wanted to follow up on the call center agent position.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -42,7 +46,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi there! I'm reaching out about the call center agent position. Not sure who to address, but hoping you can help me with the next steps."
+            "message": "Hi there! I'm reaching out about the call center agent position. Not sure who to address, but hoping you can help me with the next steps.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -52,7 +57,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi there, I'm interested in the call center agent position but I'm not sure who I'm speaking with."
+            "message": "Hi there, I'm interested in the call center agent position but I'm not sure who I'm speaking with.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -62,7 +68,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi there! I\u2019m interested in the call center agent position. Can you guide me through the process?"
+            "message": "Hi there! I\u2019m interested in the call center agent position. Can you guide me through the process?",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -72,7 +79,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi there! I recently applied for the call center agent position. Could you please help me with the next steps?"
+            "message": "Hi there! I recently applied for the call center agent position. Could you please help me with the next steps?",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -82,7 +90,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi there! I\u2019m interested in the call center agent position."
+            "message": "Hi there! I\u2019m interested in the call center agent position.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -92,7 +101,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi there!"
+            "message": "Hi there!",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -102,7 +112,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi there! I was told to reach out regarding the call center agent position."
+            "message": "Hi there! I was told to reach out regarding the call center agent position.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -112,7 +123,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi there! I'm reaching out regarding the call center agent position. \ud83d\ude0a"
+            "message": "Hi there! I'm reaching out regarding the call center agent position. \ud83d\ude0a",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -122,7 +134,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi there! Hope you're doing well. I'm interested in the call center agent position."
+            "message": "Hi there! Hope you're doing well. I'm interested in the call center agent position.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -132,7 +145,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi, good afternoon! I saw your job posting for a call center agent, and I\u2019m very interested in applying. Could you help me get started?"
+            "message": "Hi, good afternoon! I saw your job posting for a call center agent, and I\u2019m very interested in applying. Could you help me get started?",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -142,7 +156,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi there! I\u2019m interested in applying for the agent position in your call center. Could you help me with the process?"
+            "message": "Hi there! I\u2019m interested in applying for the agent position in your call center. Could you help me with the process?",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -152,7 +167,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi, hope you're doing well!"
+            "message": "Hi, hope you're doing well!",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -162,7 +178,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi, I'm interested in the call center agent position. Can we discuss the next steps?"
+            "message": "Hi, I'm interested in the call center agent position. Can we discuss the next steps?",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -172,7 +189,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi, I'm interested in the call center agent position. I submitted my application online."
+            "message": "Hi, I'm interested in the call center agent position. I submitted my application online.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -182,7 +200,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi! I'm excited to move forward with the application process for the call center agent position."
+            "message": "Hi! I'm excited to move forward with the application process for the call center agent position.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -192,7 +211,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi! I'm interested in the call center agent position. "
+            "message": "Hi! I'm interested in the call center agent position. ",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -202,7 +222,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi! I'm excited to move forward with the application process for the call center agent position."
+            "message": "Hi! I'm excited to move forward with the application process for the call center agent position.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -212,7 +233,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hey! I'm excited to move forward with the call center agent position. What's the next step?"
+            "message": "Hey! I'm excited to move forward with the call center agent position. What's the next step?",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -222,7 +244,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi, I'm interested in the call center agent position. I submitted my application form earlier today."
+            "message": "Hi, I'm interested in the call center agent position. I submitted my application form earlier today.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -232,7 +255,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi! I'm excited to discuss the call center agent position."
+            "message": "Hi! I'm excited to discuss the call center agent position.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -242,7 +266,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi!"
+            "message": "Hi!",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -252,7 +277,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi! I'm excited to discuss the call center agent position."
+            "message": "Hi! I'm excited to discuss the call center agent position.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -262,7 +288,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hey! Thanks for getting back to me about the call center agent position. I'm super excited to move forward!"
+            "message": "Hey! Thanks for getting back to me about the call center agent position. I'm super excited to move forward!",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -272,7 +299,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi! I'm excited to move forward with the application process for the call center agent position."
+            "message": "Hi! I'm excited to move forward with the application process for the call center agent position.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -282,7 +310,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hi! I'm excited to move forward with the call center agent position. What's the next step?"
+            "message": "Hi! I'm excited to move forward with the call center agent position. What's the next step?",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
@@ -292,7 +321,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Hey! Hope you're doing well. I'm excited about the call center agent position."
+            "message": "Hey! Hope you're doing well. I'm excited about the call center agent position.",
+			"current_task": "Talent entry form"
         },
         {
             "speaker": "Recruiter",
