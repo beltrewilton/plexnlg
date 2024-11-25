@@ -1,0 +1,231 @@
+[
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Can you resend the assessment questions? I think I might have missed something.",
+			"current_task": "Talent entry form"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "No worries! Here are the assessment questions again."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Can you resend the assessment form? I think I might have missed something.",
+			"current_task": "Talent entry form"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Here is the assessment form again.  Take your time, and make sure to answer each question in a paragraph or two."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Okay, I have a question. Can you resend the form? I think I might have missed it in the chat.",
+            "current_task": "Talent entry form"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Of course! I've resent the form. Please let me know if you have any questions or need any clarification."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Can you resend the two-question assessment form? I think I missed it in the chat.",
+            "current_task": "Talent entry form"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Here is the two-question assessment form again."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Can you resend the assessment questions? I think I might have missed something.",
+            "current_task": "Talent entry form"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Of course! Here are the questions again."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Can you resend the form for the assessment? I think I might have missed it in the chat.",
+            "current_task": "Talent entry form"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "No problem! Here's the form again, Let me know if you need anything else."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Okay, got it. Can you resend the two-question assessment form just in case I missed something?",
+            "current_task": "Talent entry form"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Here is the two-question assessment form again. Just in case you need to review it."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hey Maria, can you resend the first form ? I think I lost it in the chat.",
+            "current_task": "Talent entry form"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "No problem at all! Here is the talent form again:"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hey, can you resend the basic information form? I think I might have missed it in the chat",
+            "current_task": "Talent entry form"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Here is the basic information form again. "
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Can you please resend the assessment questions? I want to review my answers before moving forward.",
+            "current_task": "Talent entry form"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "No problem at all! Here are the questions again [resends form]. Take another look, and let me know if you have any questions."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Got it, thanks for the info! Also, could you resend the the talent form? I think I missed it earlier in the chat.",
+             "current_task": "Talent entry form"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "No need to worry, you've already completed the assessment. Everything is taken care of."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Can you resend the open-ended question? I think I might have missed something.",
+            "current_task": "Scripted text"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Of course! Here\u2019s the question again: `PLACEHOLDER_2`. Please respond with a voice note once you're ready."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Actually, I was wondering if you could resend the voice note text? I might have missed a part of it.",
+            "current_task": "Scripted text"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Of course! Here\u2019s the text for `PLACEHOLDER_1`. Please let me know if you need any further assistance."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Great to know. One last thing, could you resend the open-ended question? I think I might have missed it in our chat.",
+             "current_task": "Scripted text"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Of course! Here\u2019s the open-ended question again: `PLACEHOLDER_2`."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Alright, that makes sense. By the way, could you resend the text to the voice note task? I seem to have missed it in the chat.",
+            "current_task": "Scripted text"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Of course! Here\u2019s the text again for the voice note task."
+        }   
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Can you resend the text for first voice note, please? I think I missed it in the chat.",
+            "current_task": "Grammar assessment form"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Of course! Here is the text again: `PLACEHOLDER_1`. Please go ahead and record the voice note."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Can you resend the scripted text, please? I think I missed it.",
+            "current_task": "Grammar assessment form"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Of course! Here is the text again: `PLACEHOLDER_1`. Just record yourself reading it aloud and send it over."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Can you resend the text, the scripted one, please? I think I missed it in the chat.",
+             "current_task": "Grammar assessment form"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Of course, Alex! Here is the text again: `PLACEHOLDER_1`. Just record yourself reading it, and send the voice note to me."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Can you resend the text for the voice note from earlier? I think I missed it in the chat.",
+            "current_task": "Grammar assessment form"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "No problem at all! Here is the text again: `PLACEHOLDER_1`"
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Can you resend the text for the scripted voice note? I think I might have missed it in the chat."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Here is the text again: `PLACEHOLDER_1`. Just read it aloud and send it over."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Can you resend the text for the voice note, the first one? I think I might have missed it in the chat."
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "No problem! Here is the text again: `PLACEHOLDER_1`. Just record yourself reading it and send it over."
+        }
+    ]
+]

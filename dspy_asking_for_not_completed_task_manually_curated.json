@@ -1,0 +1,195 @@
+
+[
+    [
+        {
+            "speaker": "Applicant",
+            "message": "Hi, I'm having trouble accessing the assessment link. Could you please resend it?",
+			"current_task": "Scripted text"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "You've already completed the assessment, and we've received your submission. No need to access the link again."
+        }
+    ],
+    [
+        {
+            "speaker": "Applicant",
+            "message": "I'm concerned I might have missed a question on the assessment. Can I review it again?",
+			"current_task": "Scripted text"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Don't worry, you've already completed the assessment, and we've verified your submission. You don't need to review it again."
+        }
+    ],[
+        {
+            "speaker": "Applicant",
+            "message": "I'm not sure if I submitted the assessment correctly. Can you confirm?",
+			"current_task": "Scripted text"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Yes, you've already completed the assessment, and we've received your submission. Everything looks good."
+        }
+    ],[
+        {
+            "speaker": "Applicant",
+            "message": "I'd like to make some changes to my assessment submission. Is that possible?",
+			"current_task": "Scripted text"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "I'm afraid not. You've already completed the assessment, and we can't accept changes at this stage."
+        }
+    ],[
+        {
+            "speaker": "Applicant",
+            "message": "Can I get feedback on my assessment performance?",
+			"current_task": "Scripted text"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "We'll provide feedback once we've reviewed all submissions. You've already completed the assessment, so just wait for our update."
+        }
+    ],[
+        {
+            "speaker": "Applicant",
+            "message": "I'm experiencing technical issues and couldn't complete the assessment. Can I try again?",
+			"current_task": "Scripted text"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "You've already completed the assessment, and we've received your submission. No need to try again."
+        }
+    ],[
+        {
+            "speaker": "Applicant",
+            "message": "Can I request an extension on the assessment deadline?",
+			"current_task": "Scripted text"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "You've already completed the assessment, so there's no need for an extension. We'll review your submission shortly."
+        }
+    ],[
+        {
+            "speaker": "Applicant",
+            "message": "I'm not sure if I answered all the questions correctly. Can I review the assessment again?",
+			"current_task": "Scripted text"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "Don't worry, you've already completed the assessment, and we've verified your submission. You don't need to review it again."
+        }
+    ],[
+        {
+            "speaker": "Applicant",
+            "message": "Can I get a copy of my assessment submission?",
+			"current_task": "Scripted text"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "You've already completed the assessment, and we've received your submission. We'll keep a record of it, but we can't provide a copy at this stage."
+        }
+    ],[
+        {
+            "speaker": "Applicant",
+            "message": "I'm concerned about the assessment results. Can you tell me how I did?",
+			"current_task": "Scripted text"
+        },
+        {
+            "speaker": "Recruiter",
+            "message": "We'll notify you about the assessment results soon. You've already completed the assessment, so just wait for our update."
+        }
+    ],
+    [
+        {
+          "speaker": "Applicant",
+          "message": "Hi, I'm not sure if I submitted the form correctly. Can you confirm if you've received it?",
+          "current_task": "Grammar assessment form"
+        },
+        {
+          "speaker": "Recruiter",
+          "message": "Don't worry, you've already completed your profile. Everything is taken care of."
+        }
+      ],
+      [
+        {
+          "speaker": "Applicant",
+          "message": "I think I might have missed a question on the form. Can I go back and review it?",
+          "current_task": "Grammar assessment form"
+        },
+        {
+          "speaker": "Recruiter",
+          "message": "You've already completed your profile, Dont worry about it, let's continue.."
+        }
+      ],
+      [
+        {
+          "speaker": "Applicant",
+          "message": "I'm not sure if I answered the questions correctly. Can you give me feedback on my submission?",
+          "current_task": "Grammar assessment form"
+        },
+        {
+          "speaker": "Recruiter",
+          "message": "You've already completed your profile, and our team will review it shortly. Let's continue."
+        }
+      ],
+      [
+        {
+          "speaker": "Applicant",
+          "message": "Can I make changes to my submission after it's been submitted?",
+          "current_task": "Grammar assessment form"
+        },
+        {
+          "speaker": "Recruiter",
+          "message": "You've already completed your profile, let's continue with the next steps."
+        }
+      ],
+      [
+        {
+          "speaker": "Applicant",
+          "message": "I'm not sure if I submitted the correct documents. Can you confirm?",
+          "current_task": "Grammar assessment form"
+        },
+        {
+          "speaker": "Recruiter",
+          "message": "Don't worry, you've already completed your profile, and we have all the necessary documents. let's go to next step."
+        }
+      ],
+      [
+        {
+          "speaker": "Applicant",
+          "message": "Can I add more information to my submission after it's been submitted?",
+          "current_task": "Grammar assessment form"
+        },
+        {
+          "speaker": "Recruiter",
+          "message": "You've already completed your profile, let's continue to the next"
+        }
+      ],
+      [
+        {
+          "speaker": "Applicant",
+          "message": "How will I know if my submission is successful?",
+          "current_task": "Grammar assessment form"
+        },
+        {
+          "speaker": "Recruiter",
+          "message": "You've already completed your profile, don't worry about it, continue with the next assigment."
+        }
+      ],
+      [
+        {
+          "speaker": "Applicant",
+          "message": "Can I get feedback on my submission before the review process is complete?",
+          "current_task": "Grammar assessment form"
+        },
+        {
+          "speaker": "Recruiter",
+          "message": "You've already completed your profile, and our team will review it shortly. Let's continue."
+        }
+      ]
+]
+
+  
