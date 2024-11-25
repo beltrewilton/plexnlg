@@ -211,7 +211,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Can you resend the text for the scripted voice note? I think I might have missed it in the chat."
+            "message": "Can you resend the text for the scripted voice note? I think I might have missed it in the chat.",
+            "current_task": "Grammar assessment form"
         },
         {
             "speaker": "Recruiter",
@@ -221,7 +222,8 @@
     [
         {
             "speaker": "Applicant",
-            "message": "Can you resend the text for the voice note, the first one? I think I might have missed it in the chat."
+            "message": "Can you resend the text for the voice note, the first one? I think I might have missed it in the chat.",
+            "current_task": "Grammar assessment form"
         },
         {
             "speaker": "Recruiter",

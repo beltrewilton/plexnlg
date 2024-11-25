@@ -1,0 +1,794 @@
+[
+  [
+    {
+      "speaker": "Applicant",
+      "message": "By the way, am I hired?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "We need to evaluate your responses first. Our process is very effective and quicker than most, taking few minutes instead of weeks. You'll hear from us soon!"
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Understood. Thanks for the info. Also, how soon will I know if I'm hired?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "The next step is for a human recruiter to evaluate your submissions. Our process is very effective and quicker than most; it typically takes a few few minutes instead of weeks. You'll receive feedback shortly."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Understood. Am I hired?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Your application will be evaluated by a human recruiter. The process is very effective and quicker, taking few minutes instead of weeks. We'll get back to you soon!"
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "By the way, am I hired?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Your application will first be evaluated by a human recruiter. Our process is very effective and quicker, taking few minutes instead of weeks. You'll hear back from us soon."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "What kind of training or support would I receive if I get hired for this role?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "We offer comprehensive training and ongoing support to ensure your success in this role. You'll have a dedicated team leader and access to our online training platform."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "How long would it take to get hired? I have other job offers on the table.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I completely understand. Our process is actually much quicker than traditional hiring methods. We can get you hired in a matter of few minutes, not weeks. And, we'll be in touch with you every step of the way to keep you updated on your progress."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Do I get a signing bonus if I get hired?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "We do offer a hiring bonus, but I'd need to discuss the details with you in person with one of our human recruiters. They'll be able to provide you with more information."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "So, am I basically hired at this point?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Not quite yet! While you've completed all the tasks, our human recruiter still needs to review your application. But don't worry, our process is very effective and quick. We'll get back to you within a few few minutes, and you'll know the outcome soon."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Okay, cool! So, am I basically hired at this point?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Not quite yet! While you've completed all the tasks, our human recruiter still needs to review your application and assess your fit for the role. Don't worry, our process is very effective and quick, taking only a few few minutes instead of weeks. You'll hear back from us soon!"
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Okay, I'm a bit concerned about the assessment. What if I don't answer correctly? Will it affect my chances of getting hired?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Don't worry, the assessment is just one part of the evaluation process. It's designed to get a better understanding of your skills and experience. Even if you don't answer correctly, it won't necessarily disqualify you from the position."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "If you see typos, it's because I am not wearing my glasses. I have good English.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "No worries! All responses are reviewed by a human recruiter. This process is efficient and quick, so rest assured."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "By the way, I used to work there a few years ago. Do I need to go through this whole process again?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Yes, we ask all applicants to complete this process. It's very effective and much quicker than before. Please bear with us and complete it."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Do I really have to do this? Can't I just send my resume?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I understand your concern. Completing the process within this chat is very effective and quicker for you. It helps us get a better sense of your skills right away. Please proceed with the voice note."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Actually, how long does it usually take to hear back? I'm really excited about this opportunity!",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Great question! Our process is quite efficient. After your submission, a human recruiter will evaluate your application. This usually takes a few few minutes, rather than weeks. We'll make sure to get back to you as soon as possible."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "I prefer to continue in person. I am busy now.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I understand that you're busy, but this process is designed to be quick and convenient for you via chat. However, I can help you schedule a time when you can continue with the process. Please fill out this form to choose a suitable time."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "By the way, my phone's screen is cracked and I can't read very well. Can we do this over the phone?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I understand your concern. However, completing the process within this chat is very effective and quicker. It's also convenient for you as you can do it at your own pace. If you have any difficulties, please let me know, and I'll assist you."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Alright, I'll manage. So, do you pay a hiring bonus?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Yes, we do offer a hiring bonus, but the details will be discussed in person with a human recruiter."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Okay, sounds good. By the way, I worked there in the past, do I have to do this process?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Yes, we ask all applicants to go through this process as it's very effective and quicker. Please complete it to ensure we have the most up-to-date information."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Can I just send you my resume? This is too complicated.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I understand it might seem a bit much, but this process is easy and needs to be completed by this chat because it's quick and convenient for you."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Thanks for explaining. Actually, I think I don't want to continue with this anymore.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I understand. If you change your mind and would like to continue with the process, please fill out this form to schedule a time. We value your interest and hope to hear from you in the future."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Thank you for following up, but I changed my mind. I'm not interested anymore.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Thank you for letting us know. If you ever reconsider, please don't hesitate to reach out. Have a great day!"
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "I am sorry, I recently got a job. Thank you anyway.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I appreciate you letting me know. If you change your mind, please feel free to schedule a time to continue with the process using this form."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Thanks, but I'm not interested anymore.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Understood. Best of luck in your new job, and feel free to reach out if you need anything in the future. Have a great day!"
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Sure, but just to clarify, how long will this whole process take? I have other job offers on the table.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "This process is more effective and quicker, taking few minutes instead of weeks."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "By the way, which project am I being considered for?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "We have many open positions, and you will first need to be evaluated by a human recruiter. The process is very effective and quicker, taking days instead of weeks."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Actually, I'm a bit busy right now. Can we continue this later?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "No problem! Here\u2019s a form to schedule a time when you can continue with the process."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "By the way, do you offer any kind of hiring bonus?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Yes, we do offer a hiring bonus, but the details will be discussed in person with a human recruiter."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "By the way, is there any kind of incentive for joining the company?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Yes, we do offer a hiring bonus, but the details will be discussed in person with a human recruiter."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "I appreciate that. But honestly, I'm not sure if this is the right fit for me.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I understand. This process is designed to be easy, quick, and convenient for you. I encourage you to continue; you\u2019re doing great so far!"
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Actually, I wanted to let you know that I've recently accepted another job offer. Thank you for the opportunity, though.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I understand. Thank you for letting us know. If you ever change your mind, please fill out this form to schedule a time to continue with the process. We wish you all the best in your new job!"
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Maria, I don't think this process is for me. It's a bit overwhelming.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I understand it can seem like a lot, but this process is designed to be easy, quick, and convenient for you. You've done great so far! Let's keep going, you're almost there."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Thanks for the encouragement. By the way, can I do this in a different way? I'm kind of old school.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I appreciate your preference, but we need to complete this process via chat because it\u2019s quick and convenient for you. You've been doing well, and we're almost done!"
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "By the way, could you give me an idea of the compensation package?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "We offer a competitive salary and commission structure. However, the specific details are best discussed in person with a human recruiter to ensure all your questions are thoroughly answered."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Got it, thanks. Also, if you see typos it's because I am not wearing my glasses. I have good english.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "No worries, we understand. Your submissions will be reviewed by a human recruiter who will evaluate everything efficiently and quickly."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Appreciate it. How long would it take? I have other job offers.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "This process is designed to be more effective and quicker, taking days instead of weeks. We'll get back to you as soon as possible."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Can I do this procedure personally?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I understand your preference, but this process needs to be completed via chat because it's quick and convenient for you."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Which project am I being considered for?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "There are many open positions. First, you need to be evaluated by a human recruiter. The process is very effective and quicker, taking few minutes instead of weeks."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "If you see typos, it's because I am not wearing my glasses. I have good English.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "No worries, this will be checked and evaluated by a human recruiter. The process is efficient and quick."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "My phone's screen is cracked and I can't read very well. Can we do this over the phone?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I'm sorry to hear about your phone, but completing the process via chat is very effective and quicker for you. It ensures we have everything documented properly."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Got it. I\u2019ll send the voice note shortly. Also, could you tell me more about the work schedule for remote positions?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Our remote positions typically offer flexible schedules, but you may be required to work some evenings and weekends depending on the team\u2019s needs. We can discuss specific schedules during the interview."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Alright, I\u2019ll record my response now. By the way, is it possible to send my resume directly to you?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "We find it more effective and quicker to complete the process within this chat. This way, we can ensure all required steps are completed conveniently for you."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Can I just send you my resume? This is too complicated.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I understand, but this process is designed to be easy and convenient for you. Let's continue with the tasks, and it'll be done quickly."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Can you give me immediate feedback on my last response?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Your response is being checked and will be evaluated by a human recruiter very efficiently and quickly."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "I am driving and I can't read. I will do it later.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "No problem! Safety first. Here's a form to schedule a time when you can continue with the process. Let me know once you've scheduled a time."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Can I get immediate feedback on my tasks?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I appreciate your patience. Your submissions are being reviewed and need to be evaluated by a human recruiter. We aim to do this very efficiently and quickly. Thank you for understanding!"
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "I used to work here before. Do I really need to go through this entire process again?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I understand your concern. This process is designed to be very effective and quicker. It helps us ensure we have the most up-to-date information. Please complete it, and we'll make sure to expedite your application."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "If you see any mistakes, it's because I can't find my glasses. My English is pretty good though.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "No worries at all! Your submissions will be reviewed by our team, and we'll make sure everything is evaluated fairly and efficiently."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Actually, are there any remote positions available?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Yes, we do have some remote positions available. This migth be discused with a interviwer, let's focus!"
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "I have a quick question before I proceed. What kind of questions should I expect in the assessment?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Good question! The assessment will have questions related to customer service scenarios and your problem-solving skills. Just answer them as thoroughly as you can."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Actually, I have a couple more questions. First, how long does this process usually take? I have some other job offers on the table and need to make a decision soon.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "We understand the urgency. Our process is designed to be more effective and quicker than others, typically taking few minutes instead of weeks. You are doing very well, let's continue."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Just completed the simulation. Can I get immediate feedback?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Actually this is NOT a  simulation, it real!. This is being checked and needs to be evaluated by a human recruiter very efficiently and quickly."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "I think it would be better to continue in person. I am quite busy now.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I understand you're busy, but this process needs to be completed via chat because it's quick and convenient for you. However, I can provide a form for you to schedule a time when you can continue."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "I'm not sure if I want to continue with this process. I'm not feeling very confident about the role.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I completely understand your doubts! However, I think you'd be a great fit for this role. You've done an excellent job so far, and I'd hate for you to miss out on this opportunity. If you're willing, could you please continue with the process?"
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Can I get some feedback on the assessment? I want to make sure I did well.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I completely understand! Your assessment is being reviewed, and I need to evaluate it with a human recruiter. It's a quick process, and I'll get back to you soon."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "How long does this process usually take? I have other job offers on the table.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I completely understand your concern! Our process is actually more efficient and quicker, taking only a few minutes instead of weeks. You'll hear back from us soon."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Can I do this procedure personally?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Hi, I completely understand your preference. However, this process needs to be completed through this chat because it's quicker and more convenient for you. It will also help us to assess your skills more accurately."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Just to confirm, is this a remote position?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Don't worry, this will be discussed with your interviewer. Let's continue"
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Can I ask, what kind of skills are you looking for in this assessment?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "We're looking for your problem-solving skills and ability to handle customer inquiries."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Can I just send you my resume? This is too complicated.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Don't worry, this process is easy and quick! It's convenient for you to complete it through this chat. We'll get through it together."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Do you have any tips on how to answer this question?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Yes, please be yourself and share your genuine thoughts and opinions. We want to get to know you better."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "I appreciate your honesty, Recruiter, but I'm still not interested.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Okay, I understand. If you change your mind, please let me know. In the meantime, I'll share a form to schedule a time to continue the process if you decide to move forward. Take care, and good luck with your job search!"
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "By the way, how long does this process usually take?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Great question! Our process is designed to be quick and convenient for you. We aim to get back to you within a few minutes, unlike traditional recruitment processes that can take weeks."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Which project am I being considered for, exactly? I want to make sure I understand the role correctly.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "We have many open positions, and our process is designed to evaluate candidates quickly and efficiently. Our human recruiters will review your submissions, and we'll be in touch soon. Don't worry, we'll make sure you're a good fit for the role. Thanks for your cooperation and for moving forward with the process!"
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Can I send my resume instead of doing these tasks? I think it would be more convenient.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I understand your concern, but it's actually more efficient and quicker for you to complete these tasks within this chat. It'll help us get a better understanding of your skills and qualifications. Plus, it'll save us both time in the long run!"
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "I prefer to continue in person. I am busy now.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I completely understand! However, this process needs to be completed via this chat as it's the most efficient way for us to move forward. Would you like to schedule a time to continue with the process when you're available? I can send you a form to schedule a time that suits you."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Can I just send you my resume? This is too complicated.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "Don't worry, this process is easy and quick! It's actually more convenient for you to complete it here in this chat. It'll only take a few minutes, and we can move forward with your application."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "What kind of skills are you looking for in a call center agent?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "We're looking for strong communication and problem-solving skills, as well as the ability to work well in multi cultural enviroment."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Is this really necessary? Can't I just type it out?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I understand your concern, but this is an important part of our evaluation process. It helps us assess your tone and communication style."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Okay, I'll do it. But can I do this in a different way? I'm a bit old school.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I understand where you're coming from, but this process needs to be completed through this chat. It's quick and convenient for you, and it helps us streamline our application process."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "How long does this process usually take?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "We usually review applications within 3-5 business days. But this pre screening is only 15 minutes, You'll hear back from me soon!"
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Okay, I've completed the assessment. Please review my answers. Can I ask, how long does this process usually take?",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "This pre screening is only 15 minutes, The internal process usually takes around 3-5 days, depending on the volume of applications. But don't worry, we'll move as quickly as possible. Now, let me review your assessment."
+    }
+  ],
+  [
+    {
+      "speaker": "Applicant",
+      "message": "Can I do this procedure personally? I'd feel more comfortable doing it in person.",
+      "current_task": "Talent entry form"
+    },
+    {
+      "speaker": "Recruiter",
+      "message": "I completely understand your concern! However, this process is designed to be completed through this chat for your convenience. It's quick, easy, and allows us to move forward efficiently. Plus, you can do it from the comfort of your own space!"
+    }
+  ]
+]

@@ -5,3 +5,4 @@ lab/
 lora_model/
 *.zip
 .VSCodeCounter/
+cases/logs/
