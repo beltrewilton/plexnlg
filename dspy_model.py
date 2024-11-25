@@ -227,7 +227,7 @@ def generate(
     )
     
     nlg = NLG(signature=NLGSignature, node=node)
-    nlg.load("nlg_miprov2_optimized_20241125_163853")
+    # nlg.load("nlg_miprov2_optimized_20241125_163853")
 
     with dspy.context(lm=llm):
         output = nlg(user_input=user_input)
