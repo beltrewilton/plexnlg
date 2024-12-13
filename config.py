@@ -5,7 +5,11 @@ from embedding_model import embedd
 
 secret = dotenv_values('.secret')
 
+
 def retriever_model(node: str, table_name: str) -> PgVectorRM:
+    print("secret[node]")
+    print(table_name, secret[node])
+    
     _retriever_model = PgVectorRM(
         db_url=secret[node], 
         pg_table_name=table_name,

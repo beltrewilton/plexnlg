@@ -77,6 +77,9 @@ class NLG(dspy.Module):
         prediction: Output  = self.predict(context=["N/A"], user_input=user_input).output
         if prediction.company_question:
             context = self.retriever(user_input.utterance)
+            print("context:")
+            print(context)
+            print("\n")
             context = [ctx['text'] for ctx in context]
             prediction: Output = self.predict(context=context, user_input=user_input).output
             relevance_info = self.relevance(
