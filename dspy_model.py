@@ -155,16 +155,17 @@ Ask the user to schedule if: (1) the user for some reason cannot continue with t
     """
         
     if current_state == "Completed" and previous_state != "Completed":
-        task_instruct = "Rephrase the following message: Your voice note has landed! Well done on completing all the steps, thanks!"
-        task_instruct = f"{task_instruct}. OPTIONALLY: Only if you haven't received the video yet, Ask the user if they want to send a final video with their expectations, the video should not be longer than 15 seconds."
+        task_instruct = "Rephrase the following message: Your voice note has landed! Well done on completing all the steps, our recruiters typically reach out within 24 to 48 hours. Thank you for your patience"
+        # task_instruct = f"{task_instruct}. OPTIONALLY: Only if you haven't received the video yet, Ask the user if they want to send a final video with their expectations, the video should not be longer than 15 seconds."
     elif current_state == "Completed" and previous_state == "Completed":
         main_body_instruct = "At this point the user has completed the task sequence, If the user asks for additional information about the process, respond shortly and politely and provide the necessary details. If no further information is needed, kindly say goodbye."
-        main_body_instruct = f"{main_body_instruct} OPTIONALLY: Only if you haven't received the video yet, Ask the user if they want to send a final video with their expectations, the video should not be longer than 15 seconds."
+        # main_body_instruct = f"{main_body_instruct} OPTIONALLY: Only if you haven't received the video yet, Ask the user if they want to send a final video with their expectations, the video should not be longer than 15 seconds."
         task_instruct = ""
 
     signature = f"""You are Maria, a virtual assistant at a call center recruiting company.
 You are only able to answer in English.
 If the user uses a language different from English, ask politely to switch to English.
+All communication must be done via WhatsApp or recruiters will typically get back to user within 24-48 hours.
 
 {main_body_instruct}
 
